@@ -136,3 +136,8 @@ It does not contain actual Amber customer, booking or financial data. Business i
 ## 👨‍💻 Author
 
 Developed as a data analytics portfolio project to demonstrate practical skills in Python, SQL, data visualisation and AI-assisted business analysis.
+
+## 📸 Dashboard Preview
+
+### Business Overview
+![Dashboard Overview](dashboard-overview.png)
