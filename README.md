@@ -1,54 +1,72 @@
 # 🏠 AI-Powered Student Housing Booking Analytics
 
-An interactive business intelligence dashboard that analyses student accommodation booking data using Python, SQL, Streamlit and Google Gemini AI.
+An interactive business intelligence dashboard that combines **Python, SQL, Streamlit, and Google Gemini AI** to analyse student accommodation booking data and generate actionable business insights.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-SQLite-orange)
+![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red)
+![AI](https://img.shields.io/badge/AI-Google%20Gemini-blueviolet)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+---
 
 ## 📌 Project Overview
 
-This project demonstrates how data analytics and generative AI can help a student housing platform understand booking patterns, marketing performance, customer preferences and business opportunities.
+This project demonstrates how data analytics and generative AI can help a student accommodation platform understand booking patterns, marketing performance, customer preferences, and potential business opportunities.
 
-The project uses a synthetic dataset of 1,000 booking records.
+Using a synthetic dataset of **1,000 booking records**, the project transforms raw booking data into meaningful business insights through an interactive dashboard and AI-powered analysis.
 
 ## 🎯 Business Objectives
 
 * Analyse booking performance across different cities.
-* Identify effective marketing channels.
-* Understand accommodation preferences.
+* Identify high-performing marketing channels.
+* Understand customer accommodation preferences.
 * Track monthly booking trends.
-* Generate actionable business recommendations using Gemini AI.
+* Evaluate average monthly rental prices.
+* Generate actionable business recommendations using Generative AI.
+* Validate AI-generated insights against actual dataset metrics.
 
 ## 🛠️ Technologies Used
 
-| Technology        | Purpose                           |
-| ----------------- | --------------------------------- |
-| Python            | Data processing and analysis      |
-| Pandas            | Data manipulation                 |
-| SQL               | Business queries and aggregations |
-| SQLite            | Database management               |
-| Streamlit         | Interactive dashboard             |
-| Plotly            | Data visualisation                |
-| Google Gemini API | AI-generated business insights    |
+| Technology        | Purpose                              |
+| ----------------- | ------------------------------------ |
+| Python            | Data processing and analysis         |
+| Pandas            | Data manipulation and transformation |
+| SQL               | Business queries and aggregations    |
+| SQLite            | Database management                  |
+| Streamlit         | Interactive analytics dashboard      |
+| Plotly            | Interactive data visualisation       |
+| Google Gemini API | AI-generated business insights       |
+| Git & GitHub      | Version control and project hosting  |
 
 ## 📊 Dashboard Features
 
-* Business KPI cards
-* City-wise booking analysis
-* Marketing channel performance
-* Property type analysis
-* Monthly booking trends
-* Interactive city filters
-* AI-powered business analysis
+* **Business KPIs:** Total records, confirmed bookings, and average monthly rent.
+* **City-wise Analysis:** Compare confirmed bookings across cities.
+* **Marketing Performance:** Analyse booking volumes and record-to-booking rates by marketing channel.
+* **Property Analysis:** Identify popular accommodation types.
+* **Monthly Trends:** Visualise booking patterns over time.
+* **Interactive Filters:** Filter dashboard results by city.
+* **AI Business Analyst:** Generate business insights and recommendations using Google Gemini AI.
 
-## 🤖 AI Integration
+## 🤖 AI Integration – Google Gemini
 
-Google Gemini AI analyses verified business metrics and generates:
+Integrated Google Gemini API to analyse verified business metrics and generate structured business reports.
 
-* Business performance summaries
-* Important business insights
-* Marketing channel comparisons
-* Business opportunities
-* Actionable recommendations
+The AI Business Analyst provides:
 
-AI-generated findings are checked against the underlying dataset to avoid unsupported conclusions.
+* Business performance summaries.
+* Key business insights.
+* City-wise performance analysis.
+* Marketing channel comparisons.
+* Business growth opportunities.
+* Actionable recommendations.
+
+**AI Output Validation:**
+
+AI-generated findings are checked against the underlying dataset and SQL results to identify unsupported claims, incorrect calculations, and misleading recommendations.
+
+For example, marketing booking volume and booking rate are evaluated separately to avoid confusing the highest-performing channel by volume with the highest-performing channel by rate.
 
 ## 📁 Project Structure
 
@@ -61,10 +79,23 @@ AI-Student-Housing-Analytics/
 ├── generate_data.py
 ├── test_ai.py
 ├── bookings.csv
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
 ├── sql/
 │   └── queries.sql
-├── .gitignore
-└── README.md
+│
+└── screenshots/
+    ├── dashboard-overview.png
+    ├── city-booking-analysis.png
+    ├── marketing-performance.png
+    ├── property-analysis.png
+    ├── monthly-booking-trends.png
+    ├── booking-data-preview.png
+    ├── gemini-ai-insights-1.png
+    ├── gemini-ai-insights-2.png
+    └── gemini-ai-insights-3.png
 ```
 
 ## ⚙️ Installation and Setup
@@ -75,7 +106,7 @@ AI-Student-Housing-Analytics/
 git clone https://github.com/sahilpandey12/AI-Student-Housing-Analytics.git
 ```
 
-### 2. Open the project folder
+### 2. Navigate to the project directory
 
 ```bash
 cd AI-Student-Housing-Analytics
@@ -87,7 +118,9 @@ cd AI-Student-Housing-Analytics
 python -m venv venv
 ```
 
-### 4. Activate the environment (Windows)
+### 4. Activate the virtual environment
+
+**Windows:**
 
 ```powershell
 venv\Scripts\activate
@@ -96,46 +129,43 @@ venv\Scripts\activate
 ### 5. Install dependencies
 
 ```bash
-pip install pandas streamlit plotly google-genai python-dotenv
+pip install -r requirements.txt
 ```
 
-### 6. Configure Gemini API
+### 6. Configure Google Gemini API
 
-Create a `.env` file in the project directory:
+Create a `.env` file in the project directory.
 
-```text
+Add your Gemini API key:
+
+```env
 GEMINI_API_KEY=your_api_key_here
 ```
 
-Never upload your API key to GitHub.
+**Important:** Never upload your `.env` file or API key to GitHub.
 
-### 7. Launch the dashboard
+### 7. Run the dashboard
 
 ```bash
 streamlit run app.py
 ```
 
+The dashboard will open in your default browser.
+
 ## 📈 Data Analysis
 
-The project explores:
+The project explores the following business metrics:
 
-* City-wise confirmed bookings
-* Marketing channel booking rates
-* Average monthly rent
-* Accommodation type preferences
-* Monthly booking patterns
+* Total booking records.
+* Confirmed bookings.
+* City-wise booking distribution.
+* Marketing channel performance.
+* Record-to-booking rates.
+* Average monthly rent.
+* Property type preferences.
+* Monthly booking trends.
 
-Marketing booking rates are calculated using booking records as the denominator and should be interpreted as a record-to-booking rate proxy, not a verified unique-lead conversion rate.
-
-## ⚠️ Data Disclaimer
-
-This project uses synthetic data generated for educational and portfolio purposes.
-
-It does not contain actual Amber customer, booking or financial data. Business insights are illustrative and should not be interpreted as actual company performance.
-
-## 👨‍💻 Author
-
-Developed as a data analytics portfolio project to demonstrate practical skills in Python, SQL, data visualisation and AI-assisted business analysis.
+**Metric limitation:** Marketing booking rates use all records for a channel as the denominator. They are record-to-booking rate proxies, not verified unique-customer lead conversion rates.
 
 ## 📸 Project Screenshots
 
@@ -165,9 +195,33 @@ Developed as a data analytics portfolio project to demonstrate practical skills 
 
 ### 7. Gemini AI Business Insights
 
+**Part 1**
+
 ![Gemini AI Insights Part 1](screenshots/gemini-ai-insights-1.png)
+
+**Part 2**
 
 ![Gemini AI Insights Part 2](screenshots/gemini-ai-insights-2.png)
 
+**Part 3**
+
 ![Gemini AI Insights Part 3](screenshots/gemini-ai-insights-3.png)
 
+## ⚠️ Data Disclaimer
+
+This project uses a synthetic dataset of 1,000 records generated for educational and portfolio purposes.
+
+It does not contain actual Amber customer, booking, or financial data. All business insights and recommendations are illustrative and should not be interpreted as actual company performance.
+
+## 👨‍💻 Author
+
+**Sahil Pandey**
+
+Data Analytics | Python | SQL | Business Intelligence | Generative AI
+
+**GitHub Repository:**
+https://github.com/sahilpandey12/AI-Student-Housing-Analytics
+
+---
+
+*Developed as a hands-on data analytics portfolio project to demonstrate practical skills in data analysis, SQL querying, dashboard development, AI integration, and business insight generation.*
