@@ -137,7 +137,37 @@ It does not contain actual Amber customer, booking or financial data. Business i
 
 Developed as a data analytics portfolio project to demonstrate practical skills in Python, SQL, data visualisation and AI-assisted business analysis.
 
-## 📸 Dashboard Preview
+## 📸 Project Screenshots
 
-### Business Overview
-![Dashboard Overview](dashboard-overview.png)
+### 1. Dashboard Overview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### 2. City-wise Booking Analysis
+
+![City Booking Analysis](screenshots/city-booking-analysis.png)
+
+### 3. Marketing Channel Performance
+
+![Marketing Performance](screenshots/marketing-performance.png)
+
+### 4. Property Type Analysis
+
+![Property Analysis](screenshots/property-analysis.png)
+
+### 5. Monthly Booking Trends
+
+![Monthly Booking Trends](screenshots/monthly-booking-trends.png)
+
+### 6. Booking Data Preview
+
+![Booking Data Preview](screenshots/booking-data-preview.png)
+
+### 7. Gemini AI Business Insights
+
+![Gemini AI Insights Part 1](screenshots/gemini-ai-insights-1.png)
+
+![Gemini AI Insights Part 2](screenshots/gemini-ai-insights-2.png)
+
+![Gemini AI Insights Part 3](screenshots/gemini-ai-insights-3.png)
+
