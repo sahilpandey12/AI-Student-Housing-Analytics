@@ -1,0 +1,1001 @@
+Booking_ID,Booking_Date,City,University,Property_Type,Marketing_Channel,Booking_Status,Monthly_Rent,Lead_Time
+1001,2025-04-13,Bangalore,University A,Studio,Paid Search,Booked,24284,22
+1002,2025-12-15,Bangalore,University A,Private Room,Organic,Booked,22389,57
+1003,2025-09-28,Pune,University A,Private Room,Social Media,Booked,10575,55
+1004,2025-04-17,Mumbai,University A,Studio,Organic,Cancelled,14754,35
+1005,2025-03-13,Mumbai,University A,Private Room,Social Media,Enquiry,25965,30
+1006,2025-07-08,Hyderabad,University C,Shared Room,Referral,Enquiry,9986,29
+1007,2025-01-21,Mumbai,University B,Shared Room,Referral,Cancelled,26624,22
+1008,2025-04-13,Delhi,University B,Private Room,Organic,Booked,28350,11
+1009,2025-05-02,Mumbai,University C,Shared Room,Organic,Booked,34681,20
+1010,2025-08-03,Hyderabad,University C,Shared Room,Organic,Booked,31988,29
+1011,2025-11-27,Mumbai,University B,Private Room,Paid Search,Booked,23470,51
+1012,2025-03-29,Delhi,University B,PG,Paid Search,Booked,32704,41
+1013,2025-04-10,Pune,University B,Studio,Paid Search,Booked,13968,42
+1014,2025-12-26,Hyderabad,University B,Shared Room,Organic,Booked,33427,34
+1015,2025-06-01,Pune,University B,PG,Social Media,Booked,15493,1
+1016,2025-05-11,Pune,University A,Shared Room,Referral,Enquiry,12103,31
+1017,2025-05-30,Pune,University C,Shared Room,Organic,Enquiry,10076,30
+1018,2025-11-05,Bangalore,University A,Studio,Paid Search,Booked,29615,48
+1019,2025-09-15,Bangalore,University B,Shared Room,Paid Search,Enquiry,10994,18
+1020,2025-12-10,Pune,University B,Studio,Organic,Enquiry,11744,55
+1021,2025-10-21,Hyderabad,University B,Studio,Organic,Booked,22466,58
+1022,2025-07-11,Delhi,University A,Studio,Paid Search,Booked,22523,17
+1023,2025-10-04,Delhi,University A,PG,Social Media,Booked,13594,38
+1024,2025-06-10,Mumbai,University B,Private Room,Paid Search,Enquiry,15531,14
+1025,2025-11-10,Hyderabad,University A,PG,Paid Search,Enquiry,15371,23
+1026,2025-01-22,Bangalore,University A,Private Room,Organic,Booked,22547,25
+1027,2025-09-10,Pune,University B,Private Room,Social Media,Booked,26028,15
+1028,2025-08-24,Mumbai,University A,Studio,Paid Search,Cancelled,11144,46
+1029,2025-12-11,Delhi,University C,Shared Room,Paid Search,Booked,21990,56
+1030,2025-02-18,Bangalore,University C,Studio,Referral,Booked,22083,22
+1031,2025-02-28,Bangalore,University C,Shared Room,Organic,Enquiry,24626,3
+1032,2025-06-19,Pune,University C,Private Room,Referral,Cancelled,28469,56
+1033,2025-07-07,Delhi,University B,Studio,Referral,Enquiry,15954,55
+1034,2025-09-28,Hyderabad,University B,Shared Room,Paid Search,Enquiry,15269,19
+1035,2025-07-09,Bangalore,University B,PG,Organic,Enquiry,15130,57
+1036,2025-06-24,Pune,University C,Shared Room,Social Media,Booked,14828,44
+1037,2025-02-20,Hyderabad,University C,Studio,Paid Search,Cancelled,32746,34
+1038,2025-12-30,Delhi,University A,PG,Social Media,Booked,16844,35
+1039,2025-02-24,Bangalore,University A,Shared Room,Social Media,Cancelled,22220,50
+1040,2025-09-01,Hyderabad,University C,Shared Room,Organic,Booked,14331,1
+1041,2025-11-16,Hyderabad,University C,Shared Room,Referral,Cancelled,27896,52
+1042,2025-05-11,Hyderabad,University C,Shared Room,Organic,Booked,21397,21
+1043,2025-11-03,Bangalore,University C,Shared Room,Social Media,Booked,25883,29
+1044,2025-05-15,Bangalore,University A,PG,Paid Search,Booked,18291,6
+1045,2025-01-21,Mumbai,University C,Private Room,Social Media,Booked,26542,37
+1046,2025-11-25,Delhi,University A,PG,Paid Search,Enquiry,18164,1
+1047,2025-06-16,Pune,University C,PG,Paid Search,Enquiry,29546,51
+1048,2025-10-01,Hyderabad,University C,PG,Organic,Booked,18450,1
+1049,2025-03-30,Mumbai,University C,Private Room,Social Media,Booked,28423,27
+1050,2025-11-12,Pune,University A,Studio,Referral,Booked,10035,21
+1051,2025-01-14,Mumbai,University A,Private Room,Social Media,Booked,19463,53
+1052,2025-08-30,Bangalore,University B,PG,Social Media,Booked,15977,16
+1053,2025-09-22,Hyderabad,University C,Shared Room,Referral,Enquiry,25241,44
+1054,2025-12-12,Pune,University B,Shared Room,Organic,Booked,28207,59
+1055,2025-02-22,Pune,University B,PG,Social Media,Booked,31154,54
+1056,2025-12-06,Pune,University A,Shared Room,Social Media,Booked,33625,40
+1057,2025-04-02,Pune,University A,PG,Paid Search,Booked,20182,26
+1058,2025-09-21,Pune,University B,Shared Room,Social Media,Booked,8298,16
+1059,2025-02-04,Mumbai,University C,Private Room,Referral,Cancelled,31628,28
+1060,2025-07-25,Hyderabad,University A,Studio,Paid Search,Booked,8923,1
+1061,2025-03-22,Bangalore,University C,Studio,Organic,Booked,28616,36
+1062,2025-02-19,Bangalore,University C,Private Room,Paid Search,Booked,21331,10
+1063,2025-12-26,Bangalore,University B,Private Room,Referral,Booked,28690,43
+1064,2025-01-02,Bangalore,University B,PG,Referral,Booked,27183,17
+1065,2025-02-23,Mumbai,University B,PG,Paid Search,Enquiry,14578,57
+1066,2025-04-16,Delhi,University B,PG,Organic,Cancelled,12875,59
+1067,2025-09-17,Hyderabad,University A,Shared Room,Paid Search,Cancelled,29710,23
+1068,2025-11-06,Pune,University A,PG,Organic,Booked,20254,7
+1069,2025-07-10,Delhi,University B,Private Room,Paid Search,Booked,30966,44
+1070,2025-08-06,Bangalore,University A,Studio,Referral,Booked,26186,53
+1071,2025-02-13,Delhi,University B,Shared Room,Social Media,Cancelled,18905,7
+1072,2025-06-11,Hyderabad,University C,PG,Social Media,Enquiry,21353,44
+1073,2025-07-21,Pune,University C,Shared Room,Organic,Booked,23882,15
+1074,2025-09-27,Pune,University C,Shared Room,Organic,Booked,27041,34
+1075,2025-12-17,Hyderabad,University B,PG,Organic,Booked,27730,46
+1076,2025-10-31,Hyderabad,University C,Shared Room,Referral,Enquiry,17663,45
+1077,2025-09-28,Bangalore,University A,Studio,Paid Search,Cancelled,27333,4
+1078,2025-08-03,Pune,University C,Private Room,Referral,Booked,8941,14
+1079,2025-09-09,Delhi,University C,Private Room,Social Media,Booked,9907,14
+1080,2025-07-09,Mumbai,University C,Studio,Organic,Cancelled,12837,16
+1081,2025-10-23,Mumbai,University A,Shared Room,Paid Search,Booked,21680,7
+1082,2025-08-01,Hyderabad,University B,PG,Social Media,Booked,32489,32
+1083,2025-07-27,Bangalore,University A,Shared Room,Social Media,Booked,25627,19
+1084,2025-08-25,Mumbai,University B,Studio,Social Media,Cancelled,13696,2
+1085,2025-12-04,Pune,University B,Shared Room,Referral,Booked,24226,10
+1086,2025-02-22,Hyderabad,University C,Private Room,Organic,Booked,21543,50
+1087,2025-10-07,Delhi,University B,Shared Room,Social Media,Enquiry,20615,17
+1088,2025-08-05,Hyderabad,University A,Studio,Organic,Booked,9466,37
+1089,2025-09-09,Delhi,University A,Private Room,Referral,Booked,28341,12
+1090,2025-07-07,Hyderabad,University B,Shared Room,Social Media,Booked,26350,6
+1091,2025-02-10,Hyderabad,University C,Shared Room,Referral,Booked,8375,22
+1092,2025-06-06,Hyderabad,University C,Private Room,Referral,Enquiry,8262,32
+1093,2025-01-15,Delhi,University A,PG,Organic,Booked,28746,41
+1094,2025-10-28,Delhi,University C,Private Room,Social Media,Booked,30886,20
+1095,2025-03-06,Hyderabad,University B,PG,Referral,Cancelled,19580,1
+1096,2025-12-11,Mumbai,University B,Studio,Social Media,Cancelled,18136,54
+1097,2025-11-23,Bangalore,University A,Studio,Organic,Cancelled,15833,47
+1098,2025-01-09,Bangalore,University B,Private Room,Referral,Booked,9893,53
+1099,2025-12-10,Bangalore,University A,Private Room,Organic,Booked,16106,58
+1100,2025-05-09,Delhi,University B,Studio,Social Media,Enquiry,19826,6
+1101,2025-05-16,Delhi,University A,PG,Social Media,Booked,9652,19
+1102,2025-03-04,Mumbai,University C,Studio,Organic,Enquiry,29924,18
+1103,2025-05-19,Bangalore,University B,Private Room,Paid Search,Enquiry,28276,6
+1104,2025-03-22,Bangalore,University B,Studio,Referral,Enquiry,8599,45
+1105,2025-06-12,Hyderabad,University A,Private Room,Social Media,Booked,29199,33
+1106,2025-10-16,Delhi,University A,Private Room,Social Media,Booked,26296,23
+1107,2025-09-18,Bangalore,University B,Studio,Referral,Enquiry,33868,23
+1108,2025-08-19,Mumbai,University A,PG,Organic,Booked,16792,26
+1109,2025-02-10,Mumbai,University B,Shared Room,Organic,Booked,32956,13
+1110,2025-01-28,Bangalore,University C,Studio,Organic,Enquiry,28597,7
+1111,2025-05-15,Delhi,University A,Shared Room,Paid Search,Enquiry,11637,15
+1112,2025-07-20,Mumbai,University B,Studio,Paid Search,Booked,18355,44
+1113,2025-11-24,Hyderabad,University C,Shared Room,Social Media,Booked,23989,27
+1114,2025-09-25,Mumbai,University C,PG,Organic,Booked,17290,26
+1115,2025-02-02,Pune,University B,PG,Referral,Enquiry,13599,33
+1116,2025-02-17,Pune,University A,Studio,Social Media,Enquiry,30832,15
+1117,2025-03-03,Delhi,University B,Private Room,Referral,Booked,22342,36
+1118,2025-08-04,Bangalore,University C,Shared Room,Social Media,Booked,32941,45
+1119,2025-10-20,Delhi,University B,Private Room,Paid Search,Enquiry,21945,55
+1120,2025-04-09,Delhi,University A,Private Room,Social Media,Booked,18762,27
+1121,2025-06-21,Delhi,University C,Private Room,Paid Search,Booked,22312,57
+1122,2025-12-26,Delhi,University B,PG,Social Media,Enquiry,15382,5
+1123,2025-08-02,Hyderabad,University A,Studio,Organic,Booked,16982,2
+1124,2025-02-04,Hyderabad,University C,Studio,Referral,Cancelled,27953,55
+1125,2025-08-15,Mumbai,University A,PG,Organic,Booked,15707,58
+1126,2025-04-11,Pune,University C,PG,Social Media,Booked,25130,33
+1127,2025-05-11,Delhi,University B,Studio,Social Media,Enquiry,32888,16
+1128,2025-09-14,Mumbai,University A,Private Room,Social Media,Booked,12633,23
+1129,2025-01-05,Pune,University C,Shared Room,Paid Search,Enquiry,25304,38
+1130,2025-08-06,Bangalore,University A,Shared Room,Referral,Cancelled,17269,55
+1131,2025-09-12,Hyderabad,University A,Shared Room,Referral,Booked,21778,16
+1132,2025-12-25,Pune,University B,Private Room,Social Media,Booked,15008,14
+1133,2025-10-10,Bangalore,University A,Studio,Social Media,Booked,23523,29
+1134,2025-07-26,Pune,University C,PG,Paid Search,Booked,26765,26
+1135,2025-01-15,Hyderabad,University C,Studio,Organic,Booked,11618,35
+1136,2025-12-12,Hyderabad,University C,Private Room,Organic,Booked,33373,15
+1137,2025-02-11,Mumbai,University C,PG,Referral,Booked,28827,3
+1138,2025-06-28,Delhi,University B,Private Room,Paid Search,Enquiry,8272,23
+1139,2025-03-04,Pune,University A,Shared Room,Social Media,Cancelled,21007,29
+1140,2025-12-18,Pune,University B,Shared Room,Referral,Enquiry,26157,34
+1141,2025-08-19,Bangalore,University A,Private Room,Paid Search,Booked,10547,33
+1142,2025-08-29,Hyderabad,University A,PG,Organic,Booked,11164,41
+1143,2025-02-21,Pune,University A,PG,Paid Search,Cancelled,29164,41
+1144,2025-04-06,Hyderabad,University B,Studio,Organic,Booked,22414,23
+1145,2025-08-10,Pune,University A,Shared Room,Paid Search,Booked,22327,7
+1146,2025-08-19,Mumbai,University B,Studio,Referral,Enquiry,23576,3
+1147,2025-08-25,Delhi,University C,Studio,Organic,Enquiry,8946,58
+1148,2025-05-23,Pune,University C,Private Room,Referral,Booked,22693,32
+1149,2025-06-20,Hyderabad,University A,Private Room,Referral,Booked,24890,31
+1150,2025-01-29,Mumbai,University B,Studio,Organic,Enquiry,23540,18
+1151,2025-02-05,Pune,University C,Shared Room,Organic,Cancelled,14719,43
+1152,2025-01-13,Bangalore,University B,Private Room,Social Media,Enquiry,16435,7
+1153,2025-06-09,Delhi,University B,Studio,Social Media,Enquiry,33081,41
+1154,2025-11-23,Pune,University A,Studio,Social Media,Enquiry,19350,1
+1155,2025-07-06,Mumbai,University C,Studio,Referral,Booked,30744,14
+1156,2025-08-31,Bangalore,University A,Studio,Referral,Booked,32041,52
+1157,2025-03-27,Mumbai,University A,Studio,Social Media,Cancelled,11590,32
+1158,2025-10-11,Mumbai,University C,Studio,Referral,Cancelled,18064,6
+1159,2025-03-07,Bangalore,University C,Private Room,Referral,Enquiry,25576,39
+1160,2025-06-19,Mumbai,University B,Shared Room,Organic,Booked,25848,10
+1161,2025-02-14,Bangalore,University C,Studio,Organic,Booked,8390,7
+1162,2025-03-03,Pune,University B,PG,Referral,Enquiry,29999,26
+1163,2025-05-14,Bangalore,University B,Private Room,Social Media,Enquiry,20668,34
+1164,2025-10-11,Bangalore,University B,Private Room,Paid Search,Enquiry,19569,30
+1165,2025-01-28,Delhi,University C,Studio,Social Media,Enquiry,21029,36
+1166,2025-04-18,Bangalore,University A,Private Room,Paid Search,Cancelled,30490,21
+1167,2025-02-13,Bangalore,University B,Studio,Social Media,Cancelled,21107,17
+1168,2025-12-06,Pune,University A,Shared Room,Organic,Enquiry,33248,33
+1169,2025-10-13,Delhi,University A,Shared Room,Referral,Cancelled,10560,10
+1170,2025-11-27,Hyderabad,University C,Private Room,Referral,Cancelled,13867,51
+1171,2025-05-08,Pune,University A,Private Room,Organic,Booked,23284,47
+1172,2025-12-14,Pune,University A,PG,Paid Search,Booked,9211,42
+1173,2025-08-19,Hyderabad,University C,Private Room,Paid Search,Enquiry,17121,51
+1174,2025-07-09,Bangalore,University B,PG,Paid Search,Booked,9539,12
+1175,2025-08-13,Mumbai,University A,Shared Room,Organic,Booked,33488,56
+1176,2025-10-10,Delhi,University C,Shared Room,Paid Search,Booked,25027,16
+1177,2025-05-01,Mumbai,University A,Studio,Organic,Booked,16693,41
+1178,2025-04-26,Hyderabad,University A,Shared Room,Social Media,Booked,16921,32
+1179,2025-08-21,Pune,University B,PG,Social Media,Booked,25667,15
+1180,2025-09-16,Pune,University A,Private Room,Organic,Enquiry,32064,27
+1181,2025-12-25,Delhi,University C,Studio,Referral,Booked,18310,28
+1182,2025-07-17,Pune,University A,PG,Social Media,Booked,31729,17
+1183,2025-05-17,Pune,University B,Private Room,Paid Search,Booked,20744,46
+1184,2025-11-14,Delhi,University B,Studio,Organic,Cancelled,12386,59
+1185,2025-06-14,Delhi,University C,Shared Room,Paid Search,Booked,25303,50
+1186,2025-08-13,Hyderabad,University B,PG,Paid Search,Enquiry,20242,58
+1187,2025-11-03,Pune,University A,Private Room,Referral,Cancelled,26723,2
+1188,2025-08-22,Pune,University B,Studio,Paid Search,Enquiry,22257,36
+1189,2025-06-21,Hyderabad,University C,Studio,Referral,Booked,16947,50
+1190,2025-06-01,Bangalore,University B,Shared Room,Social Media,Cancelled,21946,7
+1191,2025-11-11,Bangalore,University B,Private Room,Organic,Booked,13930,13
+1192,2025-06-09,Bangalore,University B,Shared Room,Paid Search,Enquiry,13402,15
+1193,2025-04-06,Hyderabad,University C,Shared Room,Organic,Cancelled,30047,25
+1194,2025-08-21,Pune,University B,Private Room,Paid Search,Booked,34445,23
+1195,2025-06-29,Hyderabad,University B,Private Room,Organic,Booked,24017,22
+1196,2025-04-23,Hyderabad,University A,Private Room,Paid Search,Booked,29659,26
+1197,2025-11-14,Bangalore,University C,PG,Paid Search,Cancelled,8507,33
+1198,2025-02-21,Mumbai,University B,Private Room,Paid Search,Booked,9436,11
+1199,2025-09-25,Pune,University C,Studio,Paid Search,Cancelled,19618,10
+1200,2025-10-22,Bangalore,University B,Shared Room,Paid Search,Booked,16750,25
+1201,2025-04-23,Mumbai,University B,PG,Paid Search,Cancelled,24122,37
+1202,2025-04-11,Mumbai,University B,Private Room,Paid Search,Enquiry,15354,48
+1203,2025-04-23,Delhi,University A,PG,Paid Search,Enquiry,19294,43
+1204,2025-03-22,Pune,University A,Private Room,Paid Search,Enquiry,28900,53
+1205,2025-07-06,Mumbai,University A,PG,Organic,Booked,21840,38
+1206,2025-04-23,Bangalore,University C,Shared Room,Referral,Booked,28006,41
+1207,2025-01-02,Delhi,University C,Shared Room,Paid Search,Cancelled,12399,45
+1208,2025-05-10,Pune,University A,Studio,Referral,Booked,13037,24
+1209,2025-08-08,Hyderabad,University C,Studio,Paid Search,Booked,32495,40
+1210,2025-02-23,Bangalore,University B,Private Room,Paid Search,Booked,23848,46
+1211,2025-12-09,Mumbai,University B,Shared Room,Organic,Booked,11715,56
+1212,2025-08-12,Mumbai,University B,PG,Social Media,Booked,22877,33
+1213,2025-08-13,Bangalore,University A,PG,Social Media,Enquiry,15837,17
+1214,2025-05-06,Mumbai,University C,PG,Organic,Booked,9301,24
+1215,2025-05-10,Delhi,University A,Studio,Referral,Cancelled,15370,37
+1216,2025-02-22,Pune,University C,PG,Social Media,Booked,29569,57
+1217,2025-06-21,Delhi,University B,Studio,Organic,Cancelled,26539,2
+1218,2025-08-06,Mumbai,University A,Studio,Organic,Booked,14411,32
+1219,2025-06-09,Hyderabad,University C,Private Room,Social Media,Enquiry,14365,57
+1220,2025-07-17,Pune,University C,PG,Referral,Enquiry,23449,24
+1221,2025-09-04,Pune,University B,PG,Organic,Booked,8692,9
+1222,2025-11-20,Bangalore,University A,Shared Room,Paid Search,Enquiry,9478,4
+1223,2025-07-22,Bangalore,University A,Private Room,Referral,Enquiry,14396,17
+1224,2025-07-03,Hyderabad,University A,Shared Room,Referral,Enquiry,16448,17
+1225,2025-05-03,Pune,University B,Private Room,Social Media,Enquiry,18622,53
+1226,2025-09-12,Hyderabad,University A,PG,Social Media,Booked,24825,50
+1227,2025-10-21,Bangalore,University B,Studio,Paid Search,Cancelled,18073,48
+1228,2025-10-07,Bangalore,University B,Studio,Organic,Booked,10646,30
+1229,2025-11-21,Pune,University B,Studio,Social Media,Booked,13209,40
+1230,2025-04-08,Delhi,University C,Studio,Social Media,Enquiry,14533,58
+1231,2025-07-17,Mumbai,University A,Studio,Referral,Booked,29061,11
+1232,2025-08-28,Bangalore,University A,Shared Room,Social Media,Enquiry,15211,21
+1233,2025-05-24,Bangalore,University B,Private Room,Social Media,Enquiry,17927,21
+1234,2025-04-07,Delhi,University B,PG,Social Media,Enquiry,19927,18
+1235,2025-07-20,Delhi,University A,Shared Room,Social Media,Enquiry,27029,55
+1236,2025-05-04,Hyderabad,University B,Private Room,Referral,Booked,32594,29
+1237,2025-07-06,Hyderabad,University A,Studio,Paid Search,Booked,17316,24
+1238,2025-11-22,Mumbai,University C,Private Room,Paid Search,Booked,20177,10
+1239,2025-12-15,Mumbai,University B,Private Room,Organic,Booked,18846,45
+1240,2025-09-16,Pune,University A,Studio,Social Media,Booked,15933,17
+1241,2025-05-28,Hyderabad,University B,Studio,Referral,Booked,13476,18
+1242,2025-09-09,Bangalore,University A,Studio,Organic,Enquiry,21853,42
+1243,2025-12-12,Hyderabad,University A,PG,Organic,Cancelled,15928,48
+1244,2025-05-27,Bangalore,University B,Studio,Paid Search,Booked,10080,20
+1245,2025-05-28,Delhi,University C,PG,Referral,Cancelled,14089,37
+1246,2025-12-18,Hyderabad,University A,Studio,Referral,Booked,31780,45
+1247,2025-07-18,Delhi,University A,PG,Referral,Booked,34123,18
+1248,2025-11-04,Mumbai,University A,Private Room,Paid Search,Enquiry,15797,17
+1249,2025-05-08,Mumbai,University C,Shared Room,Paid Search,Cancelled,25245,9
+1250,2025-02-08,Pune,University C,Private Room,Paid Search,Enquiry,16346,14
+1251,2025-12-04,Hyderabad,University B,Private Room,Paid Search,Booked,27878,49
+1252,2025-12-26,Delhi,University C,Studio,Paid Search,Enquiry,8904,29
+1253,2025-05-09,Bangalore,University B,PG,Social Media,Cancelled,25653,31
+1254,2025-09-24,Mumbai,University B,Shared Room,Social Media,Cancelled,24788,4
+1255,2025-05-31,Mumbai,University C,Studio,Referral,Cancelled,33419,18
+1256,2025-10-25,Bangalore,University B,Studio,Organic,Enquiry,17974,59
+1257,2025-04-09,Delhi,University C,Studio,Referral,Cancelled,34140,20
+1258,2025-09-20,Delhi,University B,Private Room,Organic,Cancelled,9184,56
+1259,2025-09-09,Hyderabad,University C,PG,Paid Search,Enquiry,33322,56
+1260,2025-05-24,Hyderabad,University C,PG,Organic,Enquiry,9725,47
+1261,2025-12-12,Pune,University B,Shared Room,Referral,Booked,19380,43
+1262,2025-04-22,Mumbai,University A,PG,Referral,Enquiry,32846,44
+1263,2025-03-01,Hyderabad,University B,PG,Organic,Booked,21057,9
+1264,2025-01-02,Delhi,University C,Studio,Social Media,Booked,30195,13
+1265,2025-10-31,Bangalore,University A,Studio,Paid Search,Cancelled,13606,15
+1266,2025-09-11,Delhi,University B,Private Room,Paid Search,Enquiry,11956,27
+1267,2025-05-20,Mumbai,University B,Studio,Referral,Enquiry,24555,15
+1268,2025-02-06,Delhi,University B,Studio,Social Media,Booked,32849,28
+1269,2025-06-09,Pune,University A,Studio,Organic,Booked,26690,37
+1270,2025-01-09,Mumbai,University C,Studio,Paid Search,Booked,33734,55
+1271,2025-08-21,Bangalore,University B,Private Room,Social Media,Enquiry,34282,19
+1272,2025-04-09,Pune,University B,Studio,Paid Search,Enquiry,24081,26
+1273,2025-05-27,Mumbai,University B,Shared Room,Social Media,Cancelled,34347,52
+1274,2025-10-31,Bangalore,University B,Shared Room,Social Media,Enquiry,8421,26
+1275,2025-07-27,Pune,University B,Shared Room,Referral,Enquiry,13540,25
+1276,2025-05-11,Pune,University C,Shared Room,Paid Search,Cancelled,33785,26
+1277,2025-06-01,Mumbai,University C,Studio,Organic,Booked,24288,26
+1278,2025-02-23,Hyderabad,University B,Shared Room,Referral,Booked,23966,46
+1279,2025-04-30,Pune,University A,Studio,Referral,Cancelled,23882,28
+1280,2025-06-10,Pune,University C,Private Room,Organic,Cancelled,12675,49
+1281,2025-04-26,Bangalore,University A,Shared Room,Referral,Booked,17082,18
+1282,2025-03-16,Delhi,University C,PG,Social Media,Enquiry,21009,32
+1283,2025-04-23,Mumbai,University B,Shared Room,Social Media,Booked,14748,53
+1284,2025-04-14,Mumbai,University C,Shared Room,Paid Search,Booked,14103,3
+1285,2025-12-06,Hyderabad,University B,Studio,Paid Search,Cancelled,25857,2
+1286,2025-09-11,Hyderabad,University C,Shared Room,Organic,Cancelled,27627,33
+1287,2025-08-15,Mumbai,University B,PG,Paid Search,Cancelled,26565,42
+1288,2025-04-22,Hyderabad,University B,Studio,Social Media,Booked,34025,19
+1289,2025-04-09,Bangalore,University B,Studio,Organic,Booked,27480,17
+1290,2025-06-02,Mumbai,University B,Private Room,Organic,Cancelled,31030,44
+1291,2025-12-15,Hyderabad,University A,Private Room,Paid Search,Cancelled,19348,33
+1292,2025-12-04,Mumbai,University B,Shared Room,Social Media,Booked,17782,12
+1293,2025-07-13,Delhi,University A,Private Room,Organic,Enquiry,13882,49
+1294,2025-11-06,Pune,University A,Private Room,Social Media,Booked,30366,56
+1295,2025-06-12,Mumbai,University B,Private Room,Social Media,Cancelled,13798,3
+1296,2025-07-27,Pune,University A,Studio,Social Media,Enquiry,17627,43
+1297,2025-06-18,Hyderabad,University C,Studio,Paid Search,Booked,16415,49
+1298,2025-06-10,Pune,University B,Studio,Referral,Booked,32795,55
+1299,2025-03-09,Mumbai,University A,Private Room,Referral,Enquiry,20466,26
+1300,2025-10-16,Delhi,University B,Studio,Organic,Cancelled,17846,35
+1301,2025-10-04,Hyderabad,University B,Private Room,Social Media,Cancelled,20720,8
+1302,2025-10-31,Mumbai,University B,Studio,Paid Search,Enquiry,32840,52
+1303,2025-05-15,Hyderabad,University A,Studio,Social Media,Enquiry,17145,36
+1304,2025-07-14,Bangalore,University C,PG,Social Media,Enquiry,12524,53
+1305,2025-05-08,Pune,University C,Shared Room,Paid Search,Booked,14559,54
+1306,2025-02-02,Bangalore,University A,Private Room,Referral,Booked,15620,7
+1307,2025-06-25,Mumbai,University B,PG,Social Media,Booked,27158,46
+1308,2025-01-22,Delhi,University A,Studio,Social Media,Booked,30057,46
+1309,2025-08-26,Hyderabad,University A,Private Room,Referral,Cancelled,11124,36
+1310,2025-06-07,Pune,University A,Studio,Paid Search,Booked,16671,16
+1311,2025-02-07,Hyderabad,University B,Shared Room,Organic,Enquiry,19706,24
+1312,2025-08-18,Mumbai,University A,PG,Referral,Cancelled,25737,54
+1313,2025-12-31,Hyderabad,University B,Shared Room,Organic,Cancelled,20070,1
+1314,2025-02-20,Pune,University A,PG,Organic,Booked,33465,49
+1315,2025-09-21,Mumbai,University C,Studio,Referral,Booked,28238,25
+1316,2025-10-10,Hyderabad,University A,Shared Room,Social Media,Booked,16134,10
+1317,2025-01-27,Delhi,University A,Shared Room,Organic,Booked,8924,54
+1318,2025-08-14,Mumbai,University C,Studio,Organic,Booked,26554,16
+1319,2025-10-04,Mumbai,University B,Shared Room,Paid Search,Cancelled,34478,16
+1320,2025-10-13,Delhi,University B,Private Room,Social Media,Enquiry,13506,58
+1321,2025-04-07,Bangalore,University A,PG,Organic,Enquiry,21650,8
+1322,2025-10-11,Pune,University C,PG,Paid Search,Cancelled,10395,29
+1323,2025-11-13,Bangalore,University B,PG,Social Media,Booked,32604,39
+1324,2025-10-31,Hyderabad,University A,Private Room,Referral,Enquiry,23310,28
+1325,2025-05-27,Delhi,University C,PG,Referral,Enquiry,16226,6
+1326,2025-01-04,Bangalore,University B,Studio,Paid Search,Booked,19781,16
+1327,2025-02-04,Mumbai,University B,Shared Room,Referral,Enquiry,13515,20
+1328,2025-07-11,Hyderabad,University C,Private Room,Organic,Booked,27054,16
+1329,2025-02-18,Hyderabad,University C,PG,Social Media,Enquiry,11365,7
+1330,2025-01-17,Bangalore,University C,Studio,Organic,Enquiry,24972,41
+1331,2025-06-21,Bangalore,University C,Shared Room,Organic,Booked,19410,14
+1332,2025-08-08,Delhi,University A,Shared Room,Referral,Enquiry,27522,43
+1333,2025-06-07,Pune,University C,Private Room,Organic,Cancelled,17095,26
+1334,2025-02-15,Bangalore,University B,Private Room,Referral,Enquiry,31047,26
+1335,2025-01-06,Bangalore,University B,Private Room,Social Media,Booked,28470,14
+1336,2025-04-09,Mumbai,University A,Studio,Social Media,Enquiry,18361,7
+1337,2025-08-21,Hyderabad,University B,Studio,Organic,Booked,16531,33
+1338,2025-02-06,Pune,University B,Private Room,Paid Search,Booked,12270,26
+1339,2025-10-07,Mumbai,University C,PG,Referral,Booked,30403,57
+1340,2025-12-15,Delhi,University B,Shared Room,Referral,Enquiry,17906,45
+1341,2025-10-29,Delhi,University A,Shared Room,Organic,Enquiry,24940,20
+1342,2025-06-30,Bangalore,University C,Studio,Referral,Enquiry,32406,3
+1343,2025-04-05,Bangalore,University C,Shared Room,Referral,Enquiry,19279,52
+1344,2025-04-09,Delhi,University A,PG,Paid Search,Booked,13452,4
+1345,2025-07-07,Bangalore,University C,Shared Room,Paid Search,Booked,27951,26
+1346,2025-04-26,Pune,University C,Studio,Organic,Booked,34632,11
+1347,2025-07-10,Bangalore,University A,Studio,Paid Search,Booked,28283,2
+1348,2025-09-10,Hyderabad,University C,PG,Organic,Booked,14477,14
+1349,2025-06-10,Bangalore,University A,PG,Social Media,Booked,31884,44
+1350,2025-09-13,Mumbai,University A,Shared Room,Organic,Booked,25400,30
+1351,2025-11-19,Pune,University B,Shared Room,Social Media,Booked,14470,49
+1352,2025-05-08,Mumbai,University B,Studio,Organic,Booked,10062,12
+1353,2025-01-18,Mumbai,University C,PG,Referral,Booked,17030,26
+1354,2025-10-08,Hyderabad,University C,PG,Paid Search,Enquiry,34213,44
+1355,2025-08-11,Pune,University A,PG,Social Media,Enquiry,28705,33
+1356,2025-02-23,Pune,University C,Shared Room,Organic,Enquiry,27880,13
+1357,2025-02-27,Pune,University A,PG,Paid Search,Booked,9813,14
+1358,2025-11-19,Pune,University A,Studio,Organic,Booked,19671,24
+1359,2025-12-26,Pune,University C,Studio,Paid Search,Enquiry,30640,34
+1360,2025-06-23,Hyderabad,University A,Shared Room,Paid Search,Booked,22308,44
+1361,2025-10-07,Bangalore,University B,Private Room,Organic,Booked,34027,26
+1362,2025-04-24,Mumbai,University C,Shared Room,Social Media,Booked,10313,21
+1363,2025-10-15,Pune,University B,Private Room,Social Media,Booked,17706,28
+1364,2025-12-08,Bangalore,University C,PG,Referral,Booked,25615,48
+1365,2025-05-31,Bangalore,University A,Shared Room,Paid Search,Booked,17837,36
+1366,2025-05-07,Mumbai,University C,Studio,Referral,Cancelled,13831,40
+1367,2025-06-04,Hyderabad,University B,PG,Referral,Booked,27383,2
+1368,2025-09-30,Delhi,University A,Studio,Organic,Booked,27824,42
+1369,2025-04-14,Delhi,University C,PG,Organic,Enquiry,12056,9
+1370,2025-10-26,Bangalore,University C,Shared Room,Organic,Booked,8305,23
+1371,2025-09-03,Mumbai,University C,Private Room,Paid Search,Booked,22347,15
+1372,2025-06-25,Delhi,University B,PG,Organic,Enquiry,34299,13
+1373,2025-02-08,Bangalore,University B,Private Room,Organic,Booked,9689,23
+1374,2025-06-19,Hyderabad,University C,PG,Paid Search,Booked,34093,17
+1375,2025-09-04,Delhi,University A,Studio,Paid Search,Booked,11917,48
+1376,2025-01-26,Bangalore,University A,Studio,Social Media,Booked,31464,2
+1377,2025-12-21,Bangalore,University B,PG,Organic,Cancelled,32995,20
+1378,2025-11-02,Pune,University A,Private Room,Organic,Enquiry,10936,20
+1379,2025-01-13,Hyderabad,University B,Shared Room,Organic,Booked,11862,59
+1380,2025-11-12,Pune,University C,Shared Room,Social Media,Cancelled,22506,46
+1381,2025-11-09,Mumbai,University B,Studio,Organic,Booked,22318,3
+1382,2025-02-05,Pune,University B,Shared Room,Social Media,Booked,23300,55
+1383,2025-06-22,Pune,University C,Studio,Referral,Cancelled,34026,12
+1384,2025-01-20,Delhi,University A,Shared Room,Social Media,Booked,13649,40
+1385,2025-11-17,Bangalore,University B,PG,Referral,Booked,27645,2
+1386,2025-09-21,Hyderabad,University B,Studio,Organic,Booked,33740,36
+1387,2025-05-22,Pune,University C,Studio,Referral,Booked,34445,14
+1388,2025-05-23,Hyderabad,University A,PG,Social Media,Booked,26203,16
+1389,2025-04-02,Pune,University B,Studio,Paid Search,Enquiry,23674,19
+1390,2025-12-20,Mumbai,University C,Shared Room,Referral,Booked,25726,34
+1391,2025-11-18,Pune,University B,Shared Room,Referral,Booked,13560,44
+1392,2025-10-15,Delhi,University C,Studio,Organic,Booked,23451,46
+1393,2025-08-03,Bangalore,University A,Shared Room,Social Media,Enquiry,26610,6
+1394,2025-12-08,Mumbai,University A,Private Room,Referral,Cancelled,9079,13
+1395,2025-02-20,Pune,University A,Studio,Referral,Cancelled,21983,36
+1396,2025-06-02,Hyderabad,University A,PG,Referral,Enquiry,28590,22
+1397,2025-07-05,Mumbai,University B,Private Room,Referral,Enquiry,30664,18
+1398,2025-03-04,Mumbai,University B,Studio,Paid Search,Booked,23327,12
+1399,2025-07-09,Pune,University A,PG,Social Media,Booked,20755,52
+1400,2025-05-05,Mumbai,University A,Shared Room,Organic,Enquiry,15235,59
+1401,2025-05-30,Hyderabad,University A,PG,Organic,Enquiry,25197,54
+1402,2025-11-10,Mumbai,University B,Private Room,Paid Search,Enquiry,29473,30
+1403,2025-02-27,Hyderabad,University A,Shared Room,Social Media,Booked,10031,53
+1404,2025-12-08,Pune,University A,Studio,Referral,Booked,16514,51
+1405,2025-11-01,Bangalore,University A,Shared Room,Paid Search,Booked,17095,40
+1406,2025-06-29,Mumbai,University C,Studio,Social Media,Enquiry,34117,7
+1407,2025-06-19,Bangalore,University A,Studio,Referral,Booked,22287,32
+1408,2025-11-22,Hyderabad,University C,PG,Paid Search,Booked,13911,48
+1409,2025-09-28,Mumbai,University C,PG,Social Media,Enquiry,19695,19
+1410,2025-02-23,Delhi,University A,PG,Organic,Booked,27037,6
+1411,2025-04-11,Bangalore,University C,Private Room,Organic,Enquiry,11340,20
+1412,2025-09-21,Mumbai,University A,Private Room,Social Media,Booked,15876,27
+1413,2025-02-22,Bangalore,University B,PG,Organic,Booked,23896,53
+1414,2025-03-01,Mumbai,University B,Private Room,Social Media,Booked,20435,43
+1415,2025-04-18,Pune,University B,Shared Room,Referral,Enquiry,9141,37
+1416,2025-01-05,Bangalore,University B,Shared Room,Social Media,Booked,33425,48
+1417,2025-04-13,Delhi,University C,Private Room,Referral,Booked,32942,7
+1418,2025-07-15,Delhi,University A,Private Room,Paid Search,Enquiry,27281,59
+1419,2025-09-19,Hyderabad,University A,Shared Room,Social Media,Booked,17281,5
+1420,2025-12-31,Mumbai,University A,Studio,Paid Search,Cancelled,28425,11
+1421,2025-12-16,Bangalore,University B,Shared Room,Organic,Cancelled,10038,15
+1422,2025-02-16,Hyderabad,University B,Shared Room,Referral,Booked,12270,3
+1423,2025-12-21,Bangalore,University A,Private Room,Social Media,Cancelled,18046,58
+1424,2025-11-07,Mumbai,University B,Shared Room,Paid Search,Booked,12683,5
+1425,2025-11-04,Delhi,University A,Private Room,Referral,Cancelled,24878,23
+1426,2025-05-24,Pune,University A,Private Room,Referral,Booked,15116,53
+1427,2025-09-26,Delhi,University A,PG,Organic,Cancelled,9784,37
+1428,2025-05-04,Hyderabad,University A,Shared Room,Organic,Booked,27894,9
+1429,2025-04-16,Pune,University A,Studio,Referral,Cancelled,11786,15
+1430,2025-06-07,Hyderabad,University A,PG,Referral,Booked,29650,3
+1431,2025-05-27,Mumbai,University A,Private Room,Social Media,Booked,17190,29
+1432,2025-05-25,Pune,University B,Private Room,Referral,Booked,13428,6
+1433,2025-04-30,Hyderabad,University A,Studio,Social Media,Booked,14681,17
+1434,2025-11-15,Mumbai,University A,Private Room,Referral,Enquiry,14893,26
+1435,2025-10-02,Delhi,University B,Shared Room,Organic,Booked,20661,21
+1436,2025-04-02,Mumbai,University B,PG,Social Media,Enquiry,22892,8
+1437,2025-02-27,Bangalore,University B,Private Room,Paid Search,Enquiry,17643,21
+1438,2025-12-12,Mumbai,University A,Private Room,Organic,Cancelled,17943,57
+1439,2025-08-17,Mumbai,University C,Studio,Social Media,Booked,18472,11
+1440,2025-04-27,Bangalore,University C,Shared Room,Social Media,Booked,20992,38
+1441,2025-11-14,Hyderabad,University B,Private Room,Paid Search,Enquiry,29042,8
+1442,2025-10-06,Hyderabad,University C,Studio,Social Media,Booked,31466,42
+1443,2025-05-07,Mumbai,University B,Private Room,Referral,Booked,19126,24
+1444,2025-05-09,Bangalore,University A,Studio,Paid Search,Cancelled,14869,35
+1445,2025-02-27,Bangalore,University C,Studio,Organic,Enquiry,31991,55
+1446,2025-05-02,Delhi,University A,Shared Room,Organic,Enquiry,15669,14
+1447,2025-01-01,Hyderabad,University C,Private Room,Referral,Booked,19538,55
+1448,2025-08-27,Pune,University A,Shared Room,Organic,Cancelled,18065,14
+1449,2025-10-17,Hyderabad,University C,Studio,Social Media,Booked,30603,10
+1450,2025-04-06,Hyderabad,University A,PG,Social Media,Booked,28918,12
+1451,2025-05-06,Delhi,University A,Private Room,Referral,Enquiry,30363,38
+1452,2025-04-28,Pune,University C,PG,Organic,Booked,18171,44
+1453,2025-02-17,Delhi,University A,Private Room,Organic,Booked,33274,55
+1454,2025-03-30,Pune,University A,Shared Room,Referral,Booked,25696,46
+1455,2025-08-25,Mumbai,University A,Shared Room,Paid Search,Enquiry,10962,34
+1456,2025-09-29,Pune,University C,Shared Room,Organic,Enquiry,21851,41
+1457,2025-07-08,Delhi,University C,Shared Room,Paid Search,Cancelled,27322,10
+1458,2025-07-11,Hyderabad,University A,Shared Room,Organic,Enquiry,20979,58
+1459,2025-03-10,Pune,University A,PG,Organic,Booked,34876,17
+1460,2025-10-05,Pune,University C,Shared Room,Organic,Booked,27581,17
+1461,2025-12-15,Bangalore,University C,Studio,Organic,Booked,13296,3
+1462,2025-09-04,Hyderabad,University A,Studio,Social Media,Booked,31588,31
+1463,2025-03-17,Mumbai,University A,PG,Paid Search,Booked,22745,51
+1464,2025-06-03,Delhi,University A,Private Room,Paid Search,Enquiry,13730,1
+1465,2025-05-24,Mumbai,University B,Studio,Organic,Booked,21921,12
+1466,2025-03-27,Hyderabad,University C,Private Room,Organic,Booked,8126,39
+1467,2025-07-04,Pune,University B,PG,Paid Search,Booked,13602,4
+1468,2025-10-12,Pune,University C,Private Room,Social Media,Booked,25575,42
+1469,2025-08-08,Hyderabad,University C,Private Room,Referral,Enquiry,27023,13
+1470,2025-03-10,Pune,University C,Private Room,Referral,Booked,20581,34
+1471,2025-02-16,Pune,University C,Private Room,Paid Search,Booked,23997,42
+1472,2025-04-04,Pune,University C,PG,Organic,Enquiry,25750,21
+1473,2025-08-26,Delhi,University C,Studio,Organic,Booked,17211,22
+1474,2025-07-23,Delhi,University C,Shared Room,Social Media,Booked,30837,57
+1475,2025-08-06,Bangalore,University B,Private Room,Referral,Booked,22997,4
+1476,2025-12-07,Mumbai,University A,Studio,Social Media,Cancelled,14671,18
+1477,2025-02-08,Hyderabad,University A,Studio,Referral,Enquiry,31067,5
+1478,2025-04-10,Hyderabad,University B,PG,Paid Search,Enquiry,20271,19
+1479,2025-10-16,Hyderabad,University B,Studio,Referral,Booked,28923,2
+1480,2025-09-11,Bangalore,University B,PG,Social Media,Enquiry,16876,12
+1481,2025-08-10,Delhi,University B,Private Room,Social Media,Booked,10887,17
+1482,2025-12-23,Bangalore,University C,Private Room,Social Media,Booked,17654,10
+1483,2025-01-23,Hyderabad,University A,Shared Room,Paid Search,Booked,12086,34
+1484,2025-09-07,Mumbai,University C,Shared Room,Referral,Booked,26645,6
+1485,2025-01-10,Pune,University A,Shared Room,Referral,Booked,12180,8
+1486,2025-09-03,Delhi,University A,Studio,Social Media,Cancelled,10841,51
+1487,2025-11-21,Delhi,University B,Private Room,Referral,Enquiry,34343,11
+1488,2025-04-10,Bangalore,University C,PG,Organic,Booked,14040,57
+1489,2025-10-17,Delhi,University B,Shared Room,Organic,Booked,27944,12
+1490,2025-06-29,Hyderabad,University C,PG,Organic,Booked,18304,9
+1491,2025-08-11,Hyderabad,University A,PG,Referral,Booked,12758,2
+1492,2025-09-07,Bangalore,University B,Shared Room,Paid Search,Cancelled,25010,8
+1493,2025-05-27,Hyderabad,University B,Private Room,Paid Search,Booked,24234,58
+1494,2025-04-06,Mumbai,University A,Shared Room,Paid Search,Enquiry,13014,11
+1495,2025-09-14,Bangalore,University A,PG,Paid Search,Booked,9375,53
+1496,2025-11-21,Mumbai,University A,Shared Room,Organic,Booked,9181,36
+1497,2025-01-04,Pune,University B,PG,Organic,Booked,30092,10
+1498,2025-01-16,Mumbai,University C,PG,Social Media,Booked,8490,21
+1499,2025-10-07,Pune,University B,Shared Room,Referral,Booked,11729,20
+1500,2025-12-02,Pune,University C,Studio,Referral,Enquiry,13974,48
+1501,2025-09-04,Mumbai,University B,Shared Room,Paid Search,Booked,27918,8
+1502,2025-09-15,Bangalore,University B,Studio,Organic,Cancelled,27680,36
+1503,2025-06-09,Hyderabad,University A,PG,Paid Search,Booked,26324,29
+1504,2025-12-06,Hyderabad,University C,PG,Social Media,Booked,29398,42
+1505,2025-06-01,Pune,University B,Studio,Referral,Booked,9882,12
+1506,2025-06-27,Pune,University B,PG,Referral,Enquiry,29292,14
+1507,2025-06-12,Bangalore,University A,Studio,Paid Search,Booked,10987,48
+1508,2025-02-02,Delhi,University A,Studio,Social Media,Enquiry,13585,54
+1509,2025-06-28,Mumbai,University C,PG,Referral,Booked,11159,50
+1510,2025-04-11,Pune,University B,Private Room,Social Media,Enquiry,12530,21
+1511,2025-09-25,Hyderabad,University C,Studio,Social Media,Booked,25065,22
+1512,2025-11-19,Bangalore,University B,Shared Room,Paid Search,Cancelled,29638,21
+1513,2025-03-06,Mumbai,University C,Shared Room,Organic,Cancelled,9073,44
+1514,2025-06-17,Bangalore,University A,PG,Paid Search,Enquiry,21743,50
+1515,2025-11-26,Mumbai,University B,Private Room,Organic,Booked,26771,30
+1516,2025-02-12,Mumbai,University C,PG,Social Media,Booked,34970,39
+1517,2025-02-13,Pune,University A,Private Room,Organic,Booked,10693,20
+1518,2025-10-12,Bangalore,University A,Studio,Social Media,Enquiry,17562,24
+1519,2025-01-12,Bangalore,University C,Studio,Referral,Booked,12340,23
+1520,2025-04-05,Hyderabad,University B,Studio,Referral,Enquiry,10156,7
+1521,2025-10-29,Hyderabad,University B,Studio,Referral,Booked,24184,9
+1522,2025-09-10,Pune,University A,Shared Room,Paid Search,Booked,15966,1
+1523,2025-08-30,Pune,University B,Shared Room,Paid Search,Booked,10580,26
+1524,2025-02-04,Delhi,University B,PG,Social Media,Enquiry,15257,38
+1525,2025-08-03,Hyderabad,University B,Private Room,Referral,Cancelled,10159,38
+1526,2025-12-03,Mumbai,University A,Studio,Paid Search,Enquiry,24172,54
+1527,2025-03-31,Bangalore,University C,Studio,Referral,Booked,21900,44
+1528,2025-09-21,Pune,University B,Private Room,Paid Search,Cancelled,19440,22
+1529,2025-04-03,Bangalore,University A,Private Room,Organic,Cancelled,22678,44
+1530,2025-03-31,Bangalore,University A,PG,Organic,Booked,22436,10
+1531,2025-04-25,Delhi,University C,Private Room,Referral,Enquiry,20021,55
+1532,2025-04-15,Hyderabad,University B,Studio,Social Media,Enquiry,14772,58
+1533,2025-07-15,Pune,University B,Studio,Paid Search,Enquiry,9627,6
+1534,2025-11-10,Bangalore,University C,Studio,Paid Search,Enquiry,19664,17
+1535,2025-04-24,Pune,University C,Studio,Organic,Booked,16219,51
+1536,2025-03-16,Mumbai,University A,Studio,Organic,Booked,31464,50
+1537,2025-08-05,Delhi,University A,PG,Social Media,Enquiry,26369,38
+1538,2025-10-04,Mumbai,University C,Studio,Social Media,Booked,17713,24
+1539,2025-09-06,Pune,University B,PG,Social Media,Enquiry,16488,51
+1540,2025-06-13,Pune,University A,Studio,Referral,Enquiry,10181,10
+1541,2025-12-23,Hyderabad,University A,Shared Room,Organic,Cancelled,19594,56
+1542,2025-07-11,Bangalore,University B,Shared Room,Referral,Enquiry,26680,8
+1543,2025-08-15,Bangalore,University A,Shared Room,Organic,Booked,15164,21
+1544,2025-06-26,Mumbai,University B,Shared Room,Organic,Booked,26981,56
+1545,2025-04-09,Delhi,University B,PG,Paid Search,Booked,8901,6
+1546,2025-02-05,Bangalore,University B,PG,Organic,Booked,30444,21
+1547,2025-04-06,Hyderabad,University C,Private Room,Organic,Booked,17290,57
+1548,2025-06-01,Mumbai,University C,Studio,Referral,Booked,26061,39
+1549,2025-05-31,Mumbai,University C,Shared Room,Organic,Enquiry,10881,24
+1550,2025-07-09,Hyderabad,University B,PG,Referral,Enquiry,21058,33
+1551,2025-08-12,Delhi,University B,Studio,Social Media,Booked,13622,59
+1552,2025-02-06,Hyderabad,University C,Studio,Organic,Booked,32436,18
+1553,2025-09-25,Delhi,University A,PG,Organic,Enquiry,9378,56
+1554,2025-07-02,Hyderabad,University B,Shared Room,Referral,Booked,25632,28
+1555,2025-01-13,Hyderabad,University A,Private Room,Social Media,Booked,13650,57
+1556,2025-10-06,Pune,University A,Studio,Paid Search,Booked,20433,52
+1557,2025-08-05,Mumbai,University B,Private Room,Social Media,Cancelled,30463,32
+1558,2025-12-21,Hyderabad,University B,Shared Room,Referral,Booked,17456,12
+1559,2025-12-27,Hyderabad,University A,Shared Room,Social Media,Enquiry,34483,48
+1560,2025-10-13,Bangalore,University A,Private Room,Referral,Booked,15036,42
+1561,2025-09-30,Mumbai,University C,Shared Room,Referral,Booked,14487,27
+1562,2025-03-03,Bangalore,University C,Studio,Paid Search,Booked,25442,10
+1563,2025-03-25,Mumbai,University B,Private Room,Organic,Booked,26432,46
+1564,2025-08-05,Bangalore,University C,Shared Room,Referral,Cancelled,30499,57
+1565,2025-12-08,Hyderabad,University C,Private Room,Referral,Enquiry,12248,52
+1566,2025-07-06,Hyderabad,University C,Studio,Paid Search,Enquiry,26860,42
+1567,2025-01-19,Pune,University C,Shared Room,Referral,Cancelled,12603,32
+1568,2025-06-26,Bangalore,University A,Studio,Organic,Enquiry,27937,42
+1569,2025-04-10,Delhi,University B,Shared Room,Paid Search,Enquiry,20632,26
+1570,2025-08-21,Pune,University C,PG,Organic,Enquiry,34337,25
+1571,2025-03-17,Bangalore,University A,Shared Room,Organic,Booked,8220,11
+1572,2025-09-22,Bangalore,University A,Private Room,Paid Search,Booked,22226,23
+1573,2025-10-11,Pune,University A,Shared Room,Referral,Booked,12818,34
+1574,2025-07-25,Hyderabad,University C,Studio,Organic,Cancelled,31576,57
+1575,2025-08-11,Bangalore,University C,Studio,Organic,Booked,29007,52
+1576,2025-02-21,Hyderabad,University B,Shared Room,Organic,Booked,15349,40
+1577,2025-12-05,Pune,University C,Private Room,Organic,Enquiry,13618,23
+1578,2025-05-24,Hyderabad,University C,PG,Paid Search,Enquiry,17856,29
+1579,2025-03-10,Mumbai,University A,Private Room,Paid Search,Enquiry,31593,31
+1580,2025-04-09,Delhi,University B,PG,Social Media,Booked,12576,7
+1581,2025-01-25,Bangalore,University C,Studio,Social Media,Cancelled,26255,40
+1582,2025-02-22,Delhi,University C,Private Room,Organic,Booked,32299,33
+1583,2025-05-31,Hyderabad,University A,PG,Referral,Booked,23207,21
+1584,2025-05-24,Bangalore,University A,Shared Room,Organic,Booked,9462,2
+1585,2025-02-26,Hyderabad,University C,Studio,Referral,Booked,29905,18
+1586,2025-02-08,Mumbai,University B,Shared Room,Organic,Booked,23905,47
+1587,2025-04-19,Pune,University B,Studio,Social Media,Enquiry,32920,33
+1588,2025-06-30,Bangalore,University A,Private Room,Social Media,Booked,24252,37
+1589,2025-02-11,Mumbai,University A,Private Room,Referral,Enquiry,16236,34
+1590,2025-07-05,Mumbai,University C,Studio,Organic,Booked,15813,20
+1591,2025-08-11,Bangalore,University A,Studio,Referral,Booked,10068,35
+1592,2025-05-02,Hyderabad,University C,Studio,Social Media,Booked,13753,51
+1593,2025-05-13,Mumbai,University B,Private Room,Organic,Booked,15237,50
+1594,2025-06-12,Delhi,University B,PG,Organic,Cancelled,22175,54
+1595,2025-08-03,Mumbai,University C,Shared Room,Referral,Booked,31400,18
+1596,2025-08-09,Hyderabad,University A,Shared Room,Paid Search,Booked,14191,46
+1597,2025-08-23,Hyderabad,University B,Private Room,Referral,Booked,25898,24
+1598,2025-11-27,Delhi,University A,Shared Room,Social Media,Booked,26982,8
+1599,2025-05-26,Mumbai,University B,Studio,Social Media,Enquiry,22622,30
+1600,2025-08-27,Hyderabad,University C,PG,Social Media,Booked,9001,44
+1601,2025-03-17,Bangalore,University C,Shared Room,Social Media,Enquiry,25417,53
+1602,2025-01-09,Pune,University C,PG,Social Media,Cancelled,22877,10
+1603,2025-03-15,Pune,University B,Studio,Paid Search,Enquiry,18232,23
+1604,2025-09-10,Pune,University A,Shared Room,Organic,Enquiry,31283,52
+1605,2025-08-18,Mumbai,University A,Private Room,Referral,Cancelled,32849,49
+1606,2025-01-07,Delhi,University A,PG,Referral,Cancelled,29435,11
+1607,2025-06-23,Hyderabad,University B,Studio,Social Media,Enquiry,34355,2
+1608,2025-05-21,Bangalore,University B,PG,Referral,Booked,12476,58
+1609,2025-06-17,Bangalore,University B,Shared Room,Social Media,Booked,24862,26
+1610,2025-06-19,Mumbai,University B,Shared Room,Paid Search,Booked,8515,36
+1611,2025-10-10,Pune,University B,Private Room,Paid Search,Enquiry,20478,33
+1612,2025-05-02,Mumbai,University A,Studio,Organic,Enquiry,9191,47
+1613,2025-07-13,Delhi,University B,Studio,Paid Search,Booked,18860,13
+1614,2025-01-05,Delhi,University B,Private Room,Paid Search,Cancelled,21448,40
+1615,2025-01-29,Hyderabad,University A,Private Room,Organic,Booked,14297,25
+1616,2025-06-14,Hyderabad,University B,Studio,Referral,Booked,33987,4
+1617,2025-12-05,Delhi,University A,PG,Social Media,Enquiry,24655,42
+1618,2025-05-16,Delhi,University A,PG,Social Media,Booked,16334,19
+1619,2025-12-31,Delhi,University C,Private Room,Referral,Booked,32162,18
+1620,2025-11-17,Mumbai,University C,PG,Organic,Cancelled,14008,37
+1621,2025-12-08,Delhi,University C,Studio,Referral,Enquiry,15987,30
+1622,2025-05-25,Bangalore,University C,Shared Room,Paid Search,Booked,11332,19
+1623,2025-11-23,Pune,University B,Shared Room,Organic,Cancelled,8787,58
+1624,2025-08-05,Delhi,University C,PG,Organic,Booked,14222,23
+1625,2025-10-28,Pune,University A,Private Room,Organic,Booked,17873,59
+1626,2025-05-12,Mumbai,University B,Private Room,Social Media,Booked,25006,54
+1627,2025-10-19,Pune,University C,Private Room,Referral,Cancelled,28225,16
+1628,2025-03-11,Mumbai,University A,Private Room,Organic,Booked,11676,1
+1629,2025-09-09,Bangalore,University B,Private Room,Organic,Enquiry,10572,12
+1630,2025-10-02,Mumbai,University B,PG,Organic,Enquiry,14915,24
+1631,2025-12-30,Mumbai,University C,Shared Room,Referral,Enquiry,13033,34
+1632,2025-07-01,Hyderabad,University B,Shared Room,Social Media,Booked,15788,53
+1633,2025-06-16,Delhi,University A,PG,Paid Search,Enquiry,23689,57
+1634,2025-04-01,Delhi,University B,Private Room,Social Media,Booked,19452,8
+1635,2025-07-21,Bangalore,University A,PG,Organic,Booked,29598,18
+1636,2025-12-12,Bangalore,University B,Shared Room,Social Media,Booked,12712,57
+1637,2025-01-19,Delhi,University C,Studio,Social Media,Booked,8066,48
+1638,2025-02-08,Hyderabad,University A,PG,Paid Search,Cancelled,23855,5
+1639,2025-05-06,Delhi,University B,Private Room,Referral,Booked,20478,26
+1640,2025-06-22,Hyderabad,University B,Shared Room,Referral,Booked,15533,30
+1641,2025-05-21,Bangalore,University B,Shared Room,Social Media,Cancelled,23103,54
+1642,2025-08-30,Pune,University A,Shared Room,Social Media,Booked,12616,13
+1643,2025-08-08,Bangalore,University A,Shared Room,Referral,Cancelled,21277,19
+1644,2025-05-06,Bangalore,University A,Private Room,Referral,Booked,25524,29
+1645,2025-02-27,Mumbai,University C,Studio,Paid Search,Enquiry,34890,3
+1646,2025-05-28,Mumbai,University C,Shared Room,Organic,Enquiry,13730,26
+1647,2025-11-13,Mumbai,University A,PG,Social Media,Booked,18724,40
+1648,2025-12-27,Mumbai,University B,Studio,Referral,Booked,19772,59
+1649,2025-01-01,Hyderabad,University C,Shared Room,Social Media,Booked,31849,58
+1650,2025-12-14,Delhi,University A,Studio,Social Media,Enquiry,24268,58
+1651,2025-07-09,Pune,University B,PG,Referral,Booked,33763,12
+1652,2025-07-10,Bangalore,University C,Shared Room,Paid Search,Booked,28855,2
+1653,2025-11-08,Hyderabad,University B,PG,Social Media,Booked,20940,11
+1654,2025-04-27,Pune,University B,Private Room,Paid Search,Booked,27723,44
+1655,2025-05-14,Hyderabad,University B,Shared Room,Referral,Booked,24932,28
+1656,2025-02-27,Hyderabad,University B,Shared Room,Organic,Enquiry,32059,18
+1657,2025-02-13,Bangalore,University C,Shared Room,Organic,Booked,32648,13
+1658,2025-06-22,Delhi,University C,Shared Room,Social Media,Booked,22643,37
+1659,2025-06-09,Mumbai,University C,Private Room,Referral,Enquiry,8198,22
+1660,2025-06-22,Delhi,University A,Shared Room,Paid Search,Enquiry,34357,12
+1661,2025-11-13,Bangalore,University C,Studio,Social Media,Booked,24955,2
+1662,2025-10-30,Bangalore,University B,Shared Room,Referral,Booked,25174,37
+1663,2025-05-29,Bangalore,University C,Private Room,Referral,Booked,17830,7
+1664,2025-03-21,Pune,University B,Shared Room,Paid Search,Enquiry,34407,26
+1665,2025-08-01,Delhi,University A,Studio,Social Media,Booked,34431,26
+1666,2025-07-22,Delhi,University B,Private Room,Referral,Enquiry,21798,24
+1667,2025-09-09,Hyderabad,University B,Private Room,Referral,Cancelled,25558,12
+1668,2025-08-17,Hyderabad,University B,Studio,Referral,Booked,19469,16
+1669,2025-06-13,Hyderabad,University A,Studio,Paid Search,Booked,8178,23
+1670,2025-08-15,Bangalore,University C,Studio,Social Media,Booked,26628,40
+1671,2025-05-27,Delhi,University C,Studio,Social Media,Booked,28470,9
+1672,2025-01-20,Bangalore,University A,Studio,Social Media,Booked,25118,32
+1673,2025-02-16,Pune,University B,Private Room,Social Media,Cancelled,30616,15
+1674,2025-08-21,Hyderabad,University C,Private Room,Organic,Enquiry,8798,37
+1675,2025-11-01,Bangalore,University A,Shared Room,Organic,Cancelled,15601,13
+1676,2025-01-14,Bangalore,University C,Shared Room,Social Media,Enquiry,33363,5
+1677,2025-05-23,Pune,University A,PG,Paid Search,Booked,10795,11
+1678,2025-01-01,Mumbai,University B,Shared Room,Organic,Booked,20496,10
+1679,2025-02-23,Delhi,University C,Shared Room,Referral,Booked,12588,52
+1680,2025-09-16,Mumbai,University A,Studio,Organic,Cancelled,15297,13
+1681,2025-05-24,Hyderabad,University C,Studio,Referral,Enquiry,11084,41
+1682,2025-01-12,Bangalore,University C,Shared Room,Social Media,Cancelled,19110,53
+1683,2025-11-26,Pune,University C,PG,Organic,Booked,8731,46
+1684,2025-08-12,Pune,University C,Studio,Paid Search,Booked,9129,50
+1685,2025-09-29,Delhi,University A,Shared Room,Organic,Cancelled,9605,15
+1686,2025-12-24,Mumbai,University B,Shared Room,Organic,Booked,19970,42
+1687,2025-06-05,Delhi,University A,Private Room,Organic,Enquiry,18937,56
+1688,2025-01-08,Bangalore,University A,PG,Social Media,Enquiry,19362,7
+1689,2025-05-02,Delhi,University A,Private Room,Paid Search,Cancelled,10933,40
+1690,2025-12-14,Pune,University B,PG,Organic,Booked,23187,28
+1691,2025-06-13,Pune,University C,Studio,Paid Search,Booked,33791,32
+1692,2025-03-31,Hyderabad,University C,PG,Social Media,Booked,32900,35
+1693,2025-05-16,Hyderabad,University C,Shared Room,Referral,Booked,13074,15
+1694,2025-07-05,Bangalore,University B,Shared Room,Organic,Booked,22037,48
+1695,2025-11-12,Mumbai,University C,PG,Paid Search,Cancelled,34426,36
+1696,2025-06-27,Delhi,University B,PG,Paid Search,Cancelled,15099,21
+1697,2025-01-28,Bangalore,University C,PG,Social Media,Booked,25874,6
+1698,2025-08-08,Hyderabad,University C,Private Room,Organic,Booked,8893,1
+1699,2025-12-23,Delhi,University A,PG,Referral,Booked,9390,4
+1700,2025-02-10,Hyderabad,University B,Studio,Paid Search,Booked,27773,11
+1701,2025-08-16,Delhi,University A,Private Room,Organic,Enquiry,12239,44
+1702,2025-07-11,Mumbai,University A,Private Room,Referral,Booked,28863,26
+1703,2025-05-25,Bangalore,University A,PG,Paid Search,Booked,26647,37
+1704,2025-07-20,Delhi,University B,Studio,Paid Search,Booked,11432,23
+1705,2025-07-31,Pune,University B,Private Room,Referral,Enquiry,10371,29
+1706,2025-08-08,Pune,University C,Shared Room,Referral,Cancelled,28696,21
+1707,2025-08-28,Delhi,University A,Private Room,Social Media,Booked,9515,48
+1708,2025-02-15,Delhi,University C,PG,Organic,Booked,23906,45
+1709,2025-02-04,Delhi,University A,Studio,Organic,Enquiry,14326,45
+1710,2025-09-10,Pune,University B,PG,Social Media,Enquiry,22605,49
+1711,2025-03-23,Pune,University B,Shared Room,Paid Search,Booked,31472,27
+1712,2025-09-13,Delhi,University B,Shared Room,Referral,Enquiry,13586,39
+1713,2025-07-16,Hyderabad,University A,Shared Room,Referral,Enquiry,10917,40
+1714,2025-10-30,Hyderabad,University B,PG,Referral,Enquiry,30115,13
+1715,2025-01-10,Mumbai,University A,Private Room,Paid Search,Cancelled,32070,23
+1716,2025-11-08,Bangalore,University C,PG,Referral,Cancelled,23901,59
+1717,2025-10-13,Hyderabad,University A,Studio,Referral,Booked,34928,16
+1718,2025-08-30,Pune,University C,Private Room,Social Media,Enquiry,25551,30
+1719,2025-09-08,Hyderabad,University A,Shared Room,Paid Search,Booked,32686,4
+1720,2025-12-31,Mumbai,University C,PG,Organic,Cancelled,29493,40
+1721,2025-01-05,Mumbai,University B,Shared Room,Social Media,Booked,28711,16
+1722,2025-04-29,Bangalore,University C,Shared Room,Social Media,Enquiry,30194,31
+1723,2025-10-16,Hyderabad,University B,Studio,Organic,Enquiry,28039,53
+1724,2025-03-06,Pune,University B,Private Room,Social Media,Booked,11793,42
+1725,2025-05-26,Pune,University C,Studio,Paid Search,Enquiry,17947,25
+1726,2025-08-12,Delhi,University A,Studio,Referral,Booked,23859,44
+1727,2025-08-27,Pune,University A,Studio,Paid Search,Enquiry,31122,12
+1728,2025-06-26,Bangalore,University A,Shared Room,Organic,Booked,9577,26
+1729,2025-09-24,Bangalore,University A,Studio,Organic,Booked,17488,37
+1730,2025-12-07,Pune,University A,Studio,Social Media,Enquiry,26604,48
+1731,2025-10-09,Pune,University B,Private Room,Paid Search,Booked,17164,33
+1732,2025-03-04,Delhi,University A,Private Room,Paid Search,Enquiry,9030,28
+1733,2025-08-05,Pune,University B,Studio,Organic,Booked,23881,9
+1734,2025-12-08,Delhi,University B,Private Room,Paid Search,Booked,18785,12
+1735,2025-11-11,Delhi,University B,Private Room,Organic,Booked,14691,5
+1736,2025-10-10,Pune,University C,Studio,Paid Search,Cancelled,28376,54
+1737,2025-06-26,Mumbai,University C,Shared Room,Paid Search,Booked,25297,52
+1738,2025-04-08,Mumbai,University B,Studio,Paid Search,Booked,14358,54
+1739,2025-04-15,Delhi,University C,Private Room,Organic,Booked,26565,28
+1740,2025-04-09,Pune,University A,Shared Room,Social Media,Booked,27581,56
+1741,2025-11-07,Mumbai,University A,PG,Paid Search,Enquiry,30424,35
+1742,2025-01-06,Pune,University B,Shared Room,Organic,Enquiry,9462,5
+1743,2025-07-16,Pune,University A,Private Room,Organic,Booked,23511,34
+1744,2025-12-17,Pune,University B,Shared Room,Paid Search,Enquiry,18570,46
+1745,2025-05-13,Hyderabad,University B,Studio,Paid Search,Booked,23897,34
+1746,2025-12-24,Pune,University A,PG,Social Media,Cancelled,19646,13
+1747,2025-09-16,Hyderabad,University C,PG,Organic,Enquiry,23474,39
+1748,2025-01-23,Delhi,University A,PG,Organic,Enquiry,15037,42
+1749,2025-02-22,Mumbai,University A,Private Room,Referral,Booked,17499,45
+1750,2025-06-14,Mumbai,University B,Private Room,Organic,Enquiry,29378,48
+1751,2025-07-21,Mumbai,University B,PG,Social Media,Booked,21386,58
+1752,2025-03-24,Mumbai,University B,Shared Room,Referral,Enquiry,33765,14
+1753,2025-05-25,Mumbai,University B,PG,Referral,Booked,29692,11
+1754,2025-03-26,Mumbai,University C,Shared Room,Referral,Cancelled,14221,42
+1755,2025-03-19,Mumbai,University C,Shared Room,Paid Search,Cancelled,31474,38
+1756,2025-01-01,Delhi,University C,Private Room,Paid Search,Cancelled,15769,4
+1757,2025-02-20,Pune,University B,Shared Room,Organic,Booked,25071,53
+1758,2025-06-22,Bangalore,University B,PG,Referral,Enquiry,22356,33
+1759,2025-07-24,Hyderabad,University B,Private Room,Social Media,Booked,29045,7
+1760,2025-09-17,Bangalore,University C,Studio,Paid Search,Cancelled,33783,56
+1761,2025-10-15,Bangalore,University B,Studio,Social Media,Booked,26278,41
+1762,2025-02-03,Pune,University A,Private Room,Social Media,Booked,15389,8
+1763,2025-12-14,Pune,University A,PG,Paid Search,Booked,12922,37
+1764,2025-04-05,Pune,University B,Studio,Paid Search,Booked,21639,51
+1765,2025-03-13,Mumbai,University A,Studio,Paid Search,Booked,30706,10
+1766,2025-02-08,Delhi,University A,Shared Room,Paid Search,Booked,18003,43
+1767,2025-06-03,Mumbai,University C,Shared Room,Referral,Booked,27567,57
+1768,2025-09-07,Delhi,University B,PG,Referral,Enquiry,28181,15
+1769,2025-06-11,Delhi,University B,Private Room,Referral,Enquiry,13178,38
+1770,2025-04-28,Bangalore,University C,PG,Referral,Booked,23240,15
+1771,2025-09-16,Bangalore,University A,Private Room,Organic,Booked,34220,5
+1772,2025-11-02,Delhi,University A,Studio,Referral,Booked,11968,29
+1773,2025-09-25,Delhi,University B,Shared Room,Paid Search,Booked,10716,19
+1774,2025-02-23,Mumbai,University A,PG,Social Media,Cancelled,24574,54
+1775,2025-08-24,Mumbai,University C,PG,Referral,Cancelled,21511,51
+1776,2025-08-10,Bangalore,University C,Private Room,Organic,Booked,25719,10
+1777,2025-09-08,Pune,University B,Private Room,Paid Search,Booked,16181,12
+1778,2025-11-09,Delhi,University C,PG,Social Media,Booked,20995,54
+1779,2025-04-22,Mumbai,University C,Private Room,Social Media,Enquiry,19298,4
+1780,2025-09-12,Bangalore,University B,PG,Referral,Enquiry,24762,31
+1781,2025-10-30,Mumbai,University C,PG,Social Media,Booked,28213,18
+1782,2025-07-26,Delhi,University C,PG,Referral,Booked,14380,16
+1783,2025-08-17,Delhi,University C,Studio,Referral,Enquiry,8615,40
+1784,2025-12-07,Hyderabad,University A,Private Room,Paid Search,Enquiry,26714,36
+1785,2025-03-07,Pune,University B,Shared Room,Paid Search,Booked,26138,25
+1786,2025-03-16,Hyderabad,University B,Shared Room,Organic,Booked,8463,23
+1787,2025-04-13,Bangalore,University B,Private Room,Paid Search,Booked,17158,12
+1788,2025-07-11,Mumbai,University A,PG,Paid Search,Cancelled,28651,34
+1789,2025-09-09,Bangalore,University A,Shared Room,Referral,Booked,11158,36
+1790,2025-08-14,Delhi,University B,Shared Room,Paid Search,Booked,28008,37
+1791,2025-10-21,Hyderabad,University A,Private Room,Referral,Cancelled,21434,3
+1792,2025-11-02,Hyderabad,University B,Shared Room,Referral,Booked,12938,9
+1793,2025-04-08,Hyderabad,University A,PG,Paid Search,Enquiry,13417,53
+1794,2025-12-04,Bangalore,University C,Private Room,Organic,Booked,30388,18
+1795,2025-10-13,Delhi,University C,PG,Organic,Booked,16881,43
+1796,2025-12-01,Mumbai,University B,Shared Room,Social Media,Cancelled,13603,35
+1797,2025-12-13,Mumbai,University A,Shared Room,Social Media,Booked,10212,57
+1798,2025-11-04,Bangalore,University A,PG,Paid Search,Enquiry,30504,55
+1799,2025-09-06,Hyderabad,University C,Studio,Organic,Booked,30202,34
+1800,2025-06-15,Pune,University C,Shared Room,Referral,Booked,24766,41
+1801,2025-12-01,Bangalore,University A,Studio,Social Media,Enquiry,26640,14
+1802,2025-01-30,Bangalore,University A,Shared Room,Referral,Booked,19695,4
+1803,2025-09-04,Delhi,University A,Studio,Social Media,Enquiry,25796,29
+1804,2025-04-16,Mumbai,University A,Studio,Paid Search,Booked,17775,41
+1805,2025-02-20,Bangalore,University A,Studio,Organic,Booked,22559,45
+1806,2025-03-22,Bangalore,University A,PG,Social Media,Booked,14146,50
+1807,2025-05-13,Hyderabad,University B,Studio,Organic,Booked,8371,15
+1808,2025-10-12,Hyderabad,University A,Studio,Referral,Enquiry,30190,28
+1809,2025-05-18,Pune,University C,Studio,Paid Search,Enquiry,13565,42
+1810,2025-07-03,Delhi,University B,Shared Room,Organic,Booked,16802,16
+1811,2025-11-26,Pune,University A,Studio,Paid Search,Booked,16307,12
+1812,2025-09-30,Hyderabad,University C,Shared Room,Organic,Enquiry,15437,52
+1813,2025-12-06,Mumbai,University B,Studio,Referral,Enquiry,8446,5
+1814,2025-03-10,Hyderabad,University C,Studio,Referral,Booked,9391,34
+1815,2025-02-03,Delhi,University A,PG,Paid Search,Booked,19516,42
+1816,2025-09-19,Hyderabad,University A,Shared Room,Referral,Booked,25724,1
+1817,2025-02-22,Delhi,University A,Studio,Social Media,Enquiry,23454,39
+1818,2025-07-24,Delhi,University A,Shared Room,Organic,Booked,27323,32
+1819,2025-05-06,Delhi,University B,Shared Room,Referral,Booked,19891,26
+1820,2025-08-23,Delhi,University B,Private Room,Social Media,Enquiry,22998,17
+1821,2025-02-12,Delhi,University C,PG,Paid Search,Booked,13969,48
+1822,2025-08-28,Mumbai,University A,PG,Social Media,Booked,17265,59
+1823,2025-04-21,Pune,University C,PG,Paid Search,Booked,23861,27
+1824,2025-09-06,Bangalore,University B,Private Room,Paid Search,Booked,29197,24
+1825,2025-05-31,Pune,University A,Private Room,Organic,Booked,27953,35
+1826,2025-07-02,Delhi,University A,PG,Organic,Booked,13454,46
+1827,2025-12-02,Mumbai,University B,Private Room,Social Media,Booked,11150,42
+1828,2025-04-05,Hyderabad,University B,Private Room,Organic,Cancelled,34181,54
+1829,2025-01-08,Mumbai,University B,Private Room,Organic,Enquiry,23386,39
+1830,2025-12-26,Delhi,University B,PG,Organic,Enquiry,14414,26
+1831,2025-07-03,Mumbai,University B,PG,Social Media,Booked,12657,49
+1832,2025-10-08,Mumbai,University A,PG,Referral,Booked,31331,38
+1833,2025-07-14,Delhi,University B,Private Room,Organic,Booked,18486,23
+1834,2025-12-18,Mumbai,University A,PG,Organic,Booked,32327,22
+1835,2025-07-14,Bangalore,University A,Private Room,Social Media,Booked,28046,4
+1836,2025-06-04,Bangalore,University B,Studio,Referral,Cancelled,28866,49
+1837,2025-04-03,Mumbai,University B,Private Room,Organic,Booked,29181,59
+1838,2025-06-09,Hyderabad,University A,Shared Room,Paid Search,Booked,22894,9
+1839,2025-03-02,Delhi,University B,PG,Social Media,Booked,29452,4
+1840,2025-05-02,Bangalore,University B,PG,Organic,Cancelled,13480,7
+1841,2025-02-20,Hyderabad,University B,Shared Room,Organic,Booked,16033,23
+1842,2025-10-04,Mumbai,University C,Private Room,Paid Search,Cancelled,8983,2
+1843,2025-01-05,Hyderabad,University A,Studio,Paid Search,Booked,29991,49
+1844,2025-04-02,Pune,University C,Shared Room,Social Media,Enquiry,16543,24
+1845,2025-06-19,Bangalore,University B,Shared Room,Social Media,Enquiry,17916,40
+1846,2025-11-13,Mumbai,University C,Private Room,Paid Search,Booked,18143,55
+1847,2025-01-22,Delhi,University B,PG,Social Media,Booked,33855,31
+1848,2025-11-22,Mumbai,University C,Private Room,Paid Search,Booked,23581,47
+1849,2025-01-01,Delhi,University B,Shared Room,Organic,Booked,9907,31
+1850,2025-05-13,Mumbai,University C,Shared Room,Paid Search,Cancelled,31308,47
+1851,2025-08-21,Hyderabad,University C,PG,Paid Search,Enquiry,17216,40
+1852,2025-01-12,Hyderabad,University C,PG,Referral,Cancelled,16737,48
+1853,2025-12-12,Hyderabad,University A,PG,Paid Search,Enquiry,21757,51
+1854,2025-02-15,Pune,University C,Private Room,Paid Search,Booked,12174,43
+1855,2025-02-03,Delhi,University A,PG,Referral,Booked,34957,34
+1856,2025-03-19,Hyderabad,University B,Shared Room,Social Media,Enquiry,33464,55
+1857,2025-08-06,Pune,University C,Shared Room,Referral,Booked,23708,24
+1858,2025-10-28,Delhi,University B,Studio,Organic,Cancelled,31649,49
+1859,2025-03-14,Mumbai,University B,Private Room,Referral,Booked,17297,26
+1860,2025-10-09,Pune,University C,Studio,Organic,Booked,9990,16
+1861,2025-09-06,Bangalore,University A,Shared Room,Social Media,Enquiry,13596,57
+1862,2025-02-16,Pune,University C,Studio,Referral,Booked,24374,47
+1863,2025-05-01,Pune,University B,Shared Room,Referral,Enquiry,28382,13
+1864,2025-08-02,Delhi,University B,Studio,Social Media,Enquiry,11775,15
+1865,2025-08-27,Mumbai,University C,PG,Organic,Enquiry,33496,27
+1866,2025-02-25,Bangalore,University A,Studio,Referral,Cancelled,29029,4
+1867,2025-12-16,Hyderabad,University A,PG,Organic,Cancelled,26445,16
+1868,2025-04-17,Hyderabad,University B,PG,Referral,Enquiry,28871,30
+1869,2025-11-15,Pune,University B,Private Room,Paid Search,Booked,23706,44
+1870,2025-02-17,Delhi,University A,PG,Referral,Booked,22645,30
+1871,2025-03-02,Delhi,University C,PG,Social Media,Cancelled,21668,36
+1872,2025-12-03,Hyderabad,University B,Studio,Social Media,Booked,23960,3
+1873,2025-01-26,Bangalore,University A,Shared Room,Organic,Booked,19357,22
+1874,2025-10-19,Mumbai,University B,Private Room,Referral,Booked,12435,49
+1875,2025-09-14,Bangalore,University C,PG,Organic,Cancelled,27028,22
+1876,2025-01-08,Mumbai,University A,Private Room,Organic,Enquiry,23804,50
+1877,2025-04-23,Hyderabad,University B,Studio,Paid Search,Booked,25429,57
+1878,2025-12-21,Mumbai,University C,PG,Paid Search,Enquiry,22626,50
+1879,2025-09-10,Delhi,University B,Studio,Social Media,Cancelled,15951,55
+1880,2025-06-29,Pune,University C,Private Room,Organic,Enquiry,14449,49
+1881,2025-07-26,Pune,University C,Studio,Social Media,Cancelled,27065,12
+1882,2025-10-30,Hyderabad,University A,Private Room,Referral,Enquiry,11199,55
+1883,2025-05-07,Delhi,University C,Studio,Organic,Booked,14768,21
+1884,2025-02-25,Bangalore,University B,Private Room,Organic,Enquiry,17130,56
+1885,2025-08-02,Delhi,University C,Shared Room,Referral,Booked,31824,4
+1886,2025-01-14,Pune,University C,Studio,Referral,Enquiry,16633,31
+1887,2025-01-28,Pune,University A,Studio,Social Media,Enquiry,26934,44
+1888,2025-03-19,Delhi,University C,Shared Room,Social Media,Booked,12225,31
+1889,2025-08-04,Delhi,University C,Shared Room,Referral,Booked,24980,58
+1890,2025-12-31,Pune,University B,Studio,Social Media,Enquiry,14054,23
+1891,2025-06-03,Bangalore,University A,Shared Room,Referral,Booked,9505,54
+1892,2025-01-14,Hyderabad,University A,PG,Organic,Enquiry,17053,53
+1893,2025-07-06,Hyderabad,University A,Private Room,Organic,Booked,23749,20
+1894,2025-11-08,Delhi,University C,Private Room,Paid Search,Booked,18832,15
+1895,2025-01-07,Hyderabad,University A,Private Room,Organic,Enquiry,24344,23
+1896,2025-01-03,Pune,University C,PG,Referral,Cancelled,30852,28
+1897,2025-04-21,Pune,University C,Shared Room,Social Media,Enquiry,31620,16
+1898,2025-08-26,Delhi,University B,Shared Room,Paid Search,Booked,22783,37
+1899,2025-12-29,Delhi,University B,Studio,Social Media,Cancelled,9551,21
+1900,2025-08-27,Delhi,University B,Shared Room,Referral,Cancelled,23154,15
+1901,2025-10-01,Bangalore,University B,Studio,Organic,Cancelled,21799,17
+1902,2025-10-21,Hyderabad,University B,PG,Paid Search,Cancelled,34312,50
+1903,2025-08-15,Delhi,University C,Private Room,Referral,Cancelled,14852,37
+1904,2025-01-15,Mumbai,University C,Private Room,Paid Search,Booked,9449,13
+1905,2025-07-11,Mumbai,University A,Private Room,Paid Search,Booked,30337,19
+1906,2025-04-29,Pune,University C,Shared Room,Organic,Enquiry,32840,30
+1907,2025-01-28,Hyderabad,University C,Studio,Referral,Booked,32426,45
+1908,2025-07-21,Delhi,University B,Studio,Social Media,Cancelled,10659,18
+1909,2025-02-08,Mumbai,University C,PG,Paid Search,Booked,15509,14
+1910,2025-09-30,Hyderabad,University B,Shared Room,Paid Search,Cancelled,32277,36
+1911,2025-08-19,Pune,University A,PG,Social Media,Enquiry,31829,36
+1912,2025-03-27,Bangalore,University A,Studio,Referral,Booked,10721,20
+1913,2025-05-06,Hyderabad,University C,Studio,Paid Search,Booked,34038,52
+1914,2025-10-27,Hyderabad,University A,Private Room,Paid Search,Booked,20444,19
+1915,2025-01-25,Bangalore,University C,Shared Room,Paid Search,Cancelled,17637,45
+1916,2025-05-25,Hyderabad,University A,Studio,Referral,Enquiry,18490,44
+1917,2025-01-13,Pune,University B,Private Room,Referral,Booked,10925,7
+1918,2025-07-31,Pune,University B,Shared Room,Social Media,Enquiry,17824,57
+1919,2025-01-25,Bangalore,University B,PG,Referral,Booked,34950,44
+1920,2025-03-09,Delhi,University B,Shared Room,Referral,Booked,31488,53
+1921,2025-03-08,Mumbai,University C,Shared Room,Organic,Enquiry,14240,4
+1922,2025-08-21,Delhi,University A,Studio,Social Media,Booked,24896,59
+1923,2025-04-19,Hyderabad,University C,Studio,Paid Search,Booked,8215,34
+1924,2025-05-26,Mumbai,University B,Shared Room,Referral,Booked,15299,2
+1925,2025-04-21,Bangalore,University C,Studio,Paid Search,Booked,19523,5
+1926,2025-08-16,Bangalore,University A,Studio,Paid Search,Booked,18364,55
+1927,2025-04-21,Mumbai,University C,Studio,Organic,Booked,11153,10
+1928,2025-02-03,Pune,University A,Private Room,Referral,Cancelled,31834,32
+1929,2025-04-21,Mumbai,University C,Private Room,Social Media,Booked,9706,42
+1930,2025-09-21,Hyderabad,University A,Shared Room,Referral,Booked,18298,41
+1931,2025-08-24,Pune,University A,Studio,Paid Search,Booked,9567,13
+1932,2025-03-24,Bangalore,University B,Private Room,Social Media,Booked,18400,39
+1933,2025-02-11,Mumbai,University A,Shared Room,Referral,Cancelled,34907,5
+1934,2025-04-11,Delhi,University B,Studio,Paid Search,Enquiry,18345,58
+1935,2025-01-06,Delhi,University B,PG,Paid Search,Booked,9128,10
+1936,2025-06-29,Hyderabad,University B,Studio,Organic,Enquiry,27894,10
+1937,2025-10-09,Delhi,University C,Studio,Organic,Cancelled,15867,38
+1938,2025-11-16,Mumbai,University C,Private Room,Organic,Cancelled,26749,27
+1939,2025-08-14,Mumbai,University C,Shared Room,Paid Search,Booked,13583,51
+1940,2025-11-11,Delhi,University C,Shared Room,Referral,Booked,12897,21
+1941,2025-12-31,Mumbai,University A,Private Room,Organic,Booked,30102,8
+1942,2025-08-17,Hyderabad,University A,Studio,Referral,Cancelled,14001,1
+1943,2025-10-16,Pune,University C,PG,Organic,Booked,19113,28
+1944,2025-05-30,Hyderabad,University A,Studio,Social Media,Enquiry,12567,49
+1945,2025-10-04,Hyderabad,University A,Studio,Social Media,Booked,17271,39
+1946,2025-07-17,Mumbai,University B,PG,Organic,Booked,22348,14
+1947,2025-03-11,Pune,University B,Private Room,Paid Search,Enquiry,19703,21
+1948,2025-04-22,Mumbai,University B,Shared Room,Organic,Booked,21329,30
+1949,2025-01-04,Bangalore,University B,Private Room,Organic,Booked,10741,21
+1950,2025-12-16,Mumbai,University A,Private Room,Paid Search,Cancelled,27404,49
+1951,2025-11-27,Mumbai,University C,Studio,Social Media,Enquiry,14256,9
+1952,2025-11-14,Mumbai,University A,Shared Room,Referral,Enquiry,8228,17
+1953,2025-12-16,Pune,University A,Shared Room,Organic,Cancelled,32746,5
+1954,2025-04-05,Mumbai,University A,Private Room,Paid Search,Cancelled,24678,58
+1955,2025-06-01,Pune,University B,PG,Organic,Enquiry,12284,57
+1956,2025-11-07,Delhi,University B,Private Room,Paid Search,Booked,33001,31
+1957,2025-05-17,Bangalore,University B,PG,Referral,Booked,21264,52
+1958,2025-09-04,Pune,University C,Shared Room,Referral,Booked,21390,40
+1959,2025-08-31,Delhi,University A,Private Room,Social Media,Booked,31185,38
+1960,2025-01-31,Pune,University C,Studio,Paid Search,Cancelled,8918,43
+1961,2025-02-09,Pune,University B,Private Room,Paid Search,Cancelled,19445,19
+1962,2025-08-17,Bangalore,University C,Shared Room,Social Media,Cancelled,8498,36
+1963,2025-02-05,Hyderabad,University A,Studio,Social Media,Booked,10809,50
+1964,2025-08-11,Hyderabad,University A,Studio,Paid Search,Enquiry,12961,33
+1965,2025-01-06,Pune,University B,PG,Social Media,Booked,17017,13
+1966,2025-11-18,Mumbai,University B,Studio,Referral,Cancelled,11779,14
+1967,2025-08-08,Delhi,University C,Studio,Organic,Cancelled,18050,56
+1968,2025-03-16,Mumbai,University B,Private Room,Referral,Booked,10118,33
+1969,2025-01-04,Mumbai,University B,Shared Room,Social Media,Booked,14391,29
+1970,2025-12-01,Pune,University A,PG,Paid Search,Booked,8145,43
+1971,2025-05-14,Pune,University B,Private Room,Paid Search,Enquiry,21929,49
+1972,2025-04-28,Pune,University B,Studio,Referral,Enquiry,32326,36
+1973,2025-04-04,Pune,University A,Studio,Paid Search,Cancelled,22917,58
+1974,2025-03-03,Hyderabad,University A,PG,Social Media,Booked,12565,44
+1975,2025-07-13,Pune,University C,Shared Room,Referral,Booked,24576,10
+1976,2025-12-01,Hyderabad,University B,PG,Paid Search,Enquiry,29571,31
+1977,2025-07-22,Hyderabad,University A,Private Room,Organic,Enquiry,14637,6
+1978,2025-01-26,Pune,University C,PG,Organic,Booked,16243,57
+1979,2025-06-22,Bangalore,University C,Studio,Social Media,Booked,10410,1
+1980,2025-10-27,Delhi,University B,Private Room,Paid Search,Enquiry,9820,7
+1981,2025-05-13,Mumbai,University B,Studio,Social Media,Booked,27348,58
+1982,2025-11-22,Hyderabad,University C,Shared Room,Referral,Booked,10521,27
+1983,2025-04-28,Delhi,University A,Studio,Organic,Booked,34445,21
+1984,2025-11-20,Bangalore,University C,Studio,Referral,Booked,26952,28
+1985,2025-10-02,Mumbai,University B,PG,Paid Search,Enquiry,13882,16
+1986,2025-07-31,Mumbai,University A,Studio,Social Media,Enquiry,9867,56
+1987,2025-08-13,Hyderabad,University A,Private Room,Social Media,Cancelled,15465,46
+1988,2025-01-20,Pune,University C,Private Room,Social Media,Booked,31986,23
+1989,2025-04-23,Bangalore,University B,Shared Room,Referral,Booked,19461,52
+1990,2025-05-20,Hyderabad,University C,Private Room,Organic,Booked,27583,20
+1991,2025-02-16,Bangalore,University C,PG,Referral,Booked,14103,38
+1992,2025-01-01,Pune,University C,Shared Room,Referral,Cancelled,20197,54
+1993,2025-03-31,Pune,University A,Private Room,Paid Search,Booked,23424,25
+1994,2025-05-22,Hyderabad,University A,PG,Paid Search,Booked,24053,28
+1995,2025-11-16,Pune,University B,Private Room,Paid Search,Booked,8240,5
+1996,2025-02-07,Delhi,University B,Private Room,Organic,Booked,27824,56
+1997,2025-10-20,Mumbai,University C,Studio,Organic,Booked,12631,21
+1998,2025-05-19,Hyderabad,University C,Private Room,Paid Search,Booked,17599,18
+1999,2025-12-22,Bangalore,University C,Private Room,Paid Search,Enquiry,19694,47
+2000,2025-11-29,Delhi,University B,PG,Organic,Booked,32658,6
